@@ -1,8 +1,9 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: SNaP Lab
+description: Internal website for the SNaP Lab
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://snaplab.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+permalink: pretty
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
-
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Edit on GitHub: https://github.com/LindenParkesLab/snaplab.github.io
