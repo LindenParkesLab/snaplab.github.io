@@ -6,9 +6,9 @@ description: "Home"
 permalink: /
 ---
 
-# Welcome to The Systems Neuroscience & Psychopathology Laboratory (SNaP lab)
+# Welcome to The Systems Neuroscience & Psychopathology Laboratory (SNaP Lab)
 
-This is the internal website for SNaP lab procedures, tutorials, and practices.  This effort's success is dependent on your involvement as lab members and a community, so if you have edits to suggest, or documentation requests, please make them known by submitting an [issue](https://github.com/LindenParkesLab/snaplab.github.io/issues) or a [Pull Request](https://github.com/LindenParkesLab/snaplab.github.io/pulls). 
+This is the internal website for SNaP Lab procedures, tutorials, and practices.  This effort's success is dependent on your involvement as lab members and a community, so if you have edits to suggest, or documentation requests, please make them known by submitting an [issue](https://github.com/LindenParkesLab/snaplab.github.io/issues) or a [Pull Request](https://github.com/LindenParkesLab/snaplab.github.io/pulls). 
 <!-- If you are a LINC member and are documenting one of your tools/processes, please create your documentation according to the [LINC documentation guidelines](/docs/documentation/documentation_guidelines) and submit a [Pull Request](https://github.com/PennLINC/PennLINC.github.io/pulls), so it can be reviewed and added to the site. -->
 
 #### Thank you to the contributors!
