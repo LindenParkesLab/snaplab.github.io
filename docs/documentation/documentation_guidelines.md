@@ -18,7 +18,6 @@ has_toc: true
 ---
 All SNaP Lab members are expected to document their projects on this wiki. This tutorial is designed to get you started editing this site and contributing to its contents.
 
-
 # Getting Started
 
 ## Github
@@ -33,14 +32,14 @@ For long term editing, the best solution is to clone this repository onto your o
 
 First, install `ruby` on your local machine (see [here](https://mac.install.guide/ruby/13) for longer instructions). If you're on Mac or Linux, the best way to do this is to use [Homebrew](https://brew.sh/). Once you have Homebrew installed, you will access to the command `brew` in your terminal. Next, use `brew` to install `ruby`, like so:
 
-```
-brew install ruby
+```shell
+$ brew install ruby
 ```
 
 Note, your computer might already have a system version of `ruby` installed (e.g., Mac OS does). This isn't going to work for us. Ignore it. To ensure your newly installed version of `ruby` is ready to use, you will also need to edit your terminal profile. If you're using a Mac with the newfangled Apple Silicon chips, do the following:
 
-```
-open -e ~/.zshrc
+```shell
+$ open -e ~/.zshrc
 ```
 
 In the file that subsequently opens in TextEdit, add the following lines, then save and quit:
@@ -54,8 +53,8 @@ fi
 
 Now quit and reopen your terminal and you should be ready to use `ruby`, but let's verify:
 
-```
-which ruby
+```shell
+$ which ruby
 ```
 
 This should return something like:
@@ -70,24 +69,24 @@ If you get something like the above, you're good to go!
 
 Using `ruby`, install `jekyll`. Note, the command line function that invokes `ruby` is `gem`:
 
-```
-gem install --user-install bundler jekyll
+```shell
+$ gem install --user-install bundler jekyll
 ```
 
 ## Clone the repo
 
 Now that you've got the tools you need, let's clone the GitHub repo for this site!
 
-```
-cd ~/
-git clone https://github.com/LindenParkesLab/snaplab.github.io.git
+```shell
+$ cd ~/
+$ git clone https://github.com/LindenParkesLab/snaplab.github.io.git
 ```
 
 If you look in the repo directory, you will see a folder called `docs/`. This is where you will add to and edit the content of this wiki. Next, change into the repo directory and build the site. Basically, you're going to tell `jekyll` to take all of the contents in the current directory and spin them up into a webpage, and `ruby` will serve it to on your local machine:
 
-```
-cd ~/snaplab.github.io
-bundle exec jekyll serve
+```shell
+$ cd ~/snaplab.github.io
+$ bundle exec jekyll serve
 ```
 
 If you see something that ends with this:
