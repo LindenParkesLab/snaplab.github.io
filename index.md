@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Welcome
+title: Home
 nav_order: 1
-description: "Welcome"
+description: "Home"
 permalink: /
 ---
 
