@@ -39,7 +39,7 @@ You will obtain the following:
 ## Rights and Responsibilities
 As a member of the lab, you are entitled to certain rights, and you agree to take on certain responsibilities.
 
-<!-- <img src="/assets/images/fight_for_your_rights.webp" alt="" width="500"> -->
+<img src="/assets/images/fight_for_your_rights.webp" alt="" width="500">
 
 Note, this content was taken from [Jeremy Manning's lab manual](https://github.com/ContextLab/lab-manual/blob/master/lab_manual.pdf).
 
