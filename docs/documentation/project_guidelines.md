@@ -16,7 +16,7 @@ has_toc: true
 {:toc}
 
 ---
-A core component of a project at the SNaP Lab is its documentation. Each lab member is expected to host and document a project's code on the lab's GitHub repository and use that same repository to create a summary webpage, using GitHub Pages.
+A core component of a project at the SNaP lab is its documentation. Each lab member is expected to host and document a project's code on the lab's GitHub repository and use that same repository to create a summary webpage, using GitHub Pages.
 
 # Managing a project on GitHub
 

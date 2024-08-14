@@ -16,7 +16,7 @@ has_toc: true
 {:toc}
 
 ---
-All SNaP Lab members are expected to document their projects on this wiki. This tutorial is designed to get you started editing this site and contributing to its contents.
+All SNaP lab members are expected to document their projects on this wiki. This tutorial is designed to get you started editing this site and contributing to its contents.
 
 
 # Getting Started
@@ -97,7 +97,7 @@ Server address: http://127.0.0.1:4000/
 Server running... press ctrl-c to stop.
 ```
 
-You're in business! Just visit [http://127.0.0.1:4000//](http://127.0.0.1:4000//) in your web browser to view the local version of the SNaP Lab wiki!
+You're in business! Just visit [http://127.0.0.1:4000//](http://127.0.0.1:4000//) in your web browser to view the local version of the SNaP lab wiki!
 
 You can now edit files locally in `docs/`, and whenever you save a file, the local web page will update automatically to reflect those changes!
 When you're done, hit CTRL-C in your terminal to stop serving the site, and then submit your Pull Request to put them on the internet.
