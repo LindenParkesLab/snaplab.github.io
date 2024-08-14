@@ -30,11 +30,11 @@ Once the project has been published in a peer-reviewed journal, create a new bra
 
 First, click on the branch dropdown menu and then `View all branches`:
 
-<img src="/assets/images/main_view_all_branches.png" alt="" width="250">
+<img src="{{ site.baseurl }}/assets/images/main_view_all_branches.png" alt="" width="250">
 
 Second, click `New branch` in the top right (the big green button). In the box that pops up, create a new branch call `gh-pages` sourced from `main`:
 
-<img src="/assets/images/create_gh_pages.png" alt="" width="300">
+<img src="{{ site.baseurl }}/assets/images/create_gh_pages.png" alt="" width="300">
 
 Third, on your local machine, you'll need to pull the new `gh-pages` branch down from the remote source (e.g., via `Fetch origin` if you're using GitHub Desktop).
 

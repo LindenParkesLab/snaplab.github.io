@@ -21,7 +21,7 @@ This page contains the lab manual. The lab manual describes the rights and respo
 # Introduction
 Welcome to the SNaP Lab! We're glad to have you with us and hope that you'll have an awesome time. This manual was developed by Dr. Linden Parkes and serves as your first point of reference as a new lab member. Our goal is to create a fun and inclusive lab that strives for scientific excellence and supports the professional development of all its members. We want you to be happy and productive while you are here!
 
-<img src="/assets/images/minions_welcome.gif" alt="" width="500">
+<img src="{{ site.baseurl }}/assets/images/minions_welcome.gif" alt="" width="500">
 
 This lab manual draws from many others, including those written by [Jeremy Manning](https://github.com/ContextLab/lab-manual/blob/master/lab_manual.pdf), [Mariam Aly](https://github.com/alylab/labmanual/blob/master/aly-lab-manual.pdf), [Bridget Callaghan](https://bablab.github.io/lab_manual/), [Jonathan Peele](http://jpeelle.net/peellelab_manual.pdf), and Alex Fornito.
 
@@ -39,7 +39,7 @@ You will obtain the following:
 ## Rights and Responsibilities
 As a member of the lab, you are entitled to certain rights, and you agree to take on certain responsibilities.
 
-<img src="/assets/images/fight_for_your_rights.webp" alt="" width="500">
+<img src="{{ site.baseurl }}/assets/images/fight_for_your_rights.webp" alt="" width="500">
 
 Note, this content was taken from [Jeremy Manning's lab manual](https://github.com/ContextLab/lab-manual/blob/master/lab_manual.pdf).
 
