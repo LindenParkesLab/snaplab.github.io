@@ -1,6 +1,6 @@
 # SNaP Lab Documentation
 
-This is a site for  procedures, information, documentation related to the SNaP Lab (www.snaplab.github.io). 
+This is a site for  procedures, information, documentation related to the SNaP Lab ([snaplab.github.io](https://lindenparkeslab.github.io/snaplab.github.io/)). 
 
 ## About the theme
 
