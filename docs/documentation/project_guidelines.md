@@ -4,7 +4,6 @@ title: Project Documentation with GitHub Pages
 parent: Documentation
 has_children: false
 has_toc: true
-nav_order: 2
 ---
 
 # Project Documentation with GitHub Pages

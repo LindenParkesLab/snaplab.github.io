@@ -3,7 +3,6 @@ layout: default
 title: Completed Projects
 has_children: false
 has_toc: false
-nav_order: 4
 ---
 
 # Completed Projects
