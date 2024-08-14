@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Updating this wiki
+title: Updating the wiki
 parent: Documentation
 nav_order: 1
 has_toc: true
 ---
 
-# Updating the Docs
+# Updating the wiki
 {: .no_toc }
 
 ## Table of contents
