@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: SNaP Lab
 description: Internal website for the SNaP Lab
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://lindenparkeslab.github.io/snaplab.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: pretty
 theme: just-the-docs
