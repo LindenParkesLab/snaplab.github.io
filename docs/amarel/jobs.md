@@ -45,7 +45,7 @@ The first thing to consider is which Amarel partition you want to submit your jo
 # SBATCH --gres=gpu:1
 ```
 
-If you use `partition=main`, your job will be submitted to the main Amarel pool, which is a pool shared by all of Rutgers. It is a very large pool but we do not have exclusive access to it. If you use `partition=p_dz268_1`, your job will be submitted to the CAHBIR pool. This pool only has 640 cores (main has many more than this), but only members of CAHBIR have access to this pool, so there is less competition. Finally, if you use `partition=gpu`, your job will be submitted a pool of nodes that have gpu support. Like main, this pool is shared with all of Rutgers; but in our experience it doesn't get used much! Amarel is really well equipped with gpus, so this pool can be powerful if your jobs require CUDA acceleration.
+If you use `partition=main`, your job will be submitted to the main Amarel pool, which is a pool shared by all of Rutgers. It is a very large pool but we do not have exclusive access to it. If you use `partition=p_dz268_1`, your job will be submitted to the CAHBIR pool. This pool only has 640 cores (main has many more than this), but only members of CAHBIR have access to this pool, so there is less competition. Finally, if you use `partition=gpu`, your job will be submitted to a pool of nodes that have gpu support. Like main, this pool is shared with all of Rutgers; but in our experience it doesn't get used much! Amarel is really well equipped with gpus, so this pool can be powerful if your jobs require CUDA acceleration.
 
 {: .note-title }
 > Important
@@ -70,10 +70,10 @@ Unfortunately, array jobs are capped on Amarel. You can run 500 jobs at once on 
 for i in {0..1500..500}; do
     NEW_SLURM_ARRAY_TASK_ID=$((${SLURM_ARRAY_TASK_ID} + ${i}))
     echo "NEW_SLURM_ARRAY_TASK_ID:" ${NEW_SLURM_ARRAY_TASK_ID}
-    python ${scriptsdir}/my_python_script.py --option_a 'foo' --option_b 123 --option_c ${SLURM_ARRAY_TASK_ID}
+    python ${scriptsdir}/my_python_script.py --option_a 'foo' --option_b 123 --option_c ${NEW_SLURM_ARRAY_TASK_ID}
 done
 ```
 
 Now, `NEW_SLURM_ARRAY_TASK_ID` will loop through [0, 500, 1000, 1500] in the first job and [1, 501, 1001, 1501] in the second job, etc. This will result in your 500 array jobs performing 2000 jobs worth of processing (when `SLURM_ARRAY_TASK_ID=499`, `NEW_SLURM_ARRAY_TASK_ID` will loop through [499, 999, 1499, 1999]). They will also each take 4 times longer.
 
-If you don't need an array job, just add a space after the `#` to the corresponding header line, and `SLURM_ARRAY_TASK_ID` will never be generated (and Amarel will only one job).
+If you don't need an array job, just add a space after the `#` to the corresponding header line, and `SLURM_ARRAY_TASK_ID` will never be generated (and Amarel will only launch one job).

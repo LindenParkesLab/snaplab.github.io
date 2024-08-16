@@ -29,7 +29,7 @@ This will open the file in your terminal and allow you edit to it. You should se
 
 <img src="{{ site.baseurl }}/assets/images/nano_bashrc.png" alt="" width="750">
 
-Once you've edited your `.bashrc`, press CTRL-X, and then the Y key, and then ENTER (one at a time, not all together). This will save and close the file. Now, the next time you open a terminal on Amarel, the new lines of code will run automatically in the background, enabling new functionality.
+Once you've edited your `.bashrc`, press CTRL-X, and then the Y key, and then Return (one at a time, not all together). This will save and close the file. Now, the next time you open a terminal on Amarel, the new lines of code will run automatically in the background, enabling new functionality.
 
 # Slurm tricks
 
