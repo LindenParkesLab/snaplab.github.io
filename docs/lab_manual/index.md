@@ -105,7 +105,7 @@ These expectations are designed to keep everyone in the lab moving forward produ
 ### Post-docs
 Linden expects that you will;
 
-1. Commit 40 hours a week to your research and lab responsibilities.
+1. Commit ~40 hours a week, on average, to your research and lab responsibilities.
 2. Come prepared to meetings to provide updates on your research.
 3. Develop your own line of research that is consistent with/complementary to the lab's goals, and publish your work in peer-reviewed journals.
 4. Help mentor other trainees in the lab (e.g., undergraduate and graduate students), either because they seek it, or because Linden asks you to.
@@ -117,7 +117,9 @@ Linden expects that you will;
 {: .note-title }
 > Important
 >
-> Regarding funding, though we will only hire you if we can support you for at least one year, it is beneficial to your professional development to get experience writing, and to be awarded, your own grants. If you plan to stay in academia long term, becoming a practiced grant writer is essential. Additionally, if awarded, grants will provide you a great deal of independence during your time in the lab (e.g., you won't have to depend on lab finances to support conference travel etc.).
+> Regarding work hours. As a postdoc, you're expected to work your contracted hours each week (~40 in the case of a full-time postdoc), but Linden won't micromanage your time. Academic research is highly flexible. Linden does not expect you to be at your desk 9am-5pm, 5 days a week. Linden does expect you to put in the work, though, and to (on average) work the equivalent of a full-time week. This could be 9-5, or it could 12-8, it's up to you. It could also mean taking every Wednesday off and working a day on the weekend to make up. Finally, research ebbs and flows. Sometimes things will be busy, and you might find yourself putting in >40 hours a week to get everything done (e.g., when a paper or grant submission is coming up). Other times things will be quieter, and you can take that time back.
+>
+> Regarding funding. Though we will only hire you if we can support you for at least two years, it is beneficial to your professional development to get experience writing, and to be awarded, your own grants. If you plan to stay in academia long term, becoming a practiced grant writer is essential. Additionally, if awarded, grants will provide you a great deal of independence during your time in the lab (e.g., you won't have to depend on lab finances to support conference travel etc.).
 >
 
 ### Graduate students
