@@ -22,3 +22,8 @@ Below is a list of software and tools managed by the SNaP Lab.
 
 * code: [https://github.com/LindenParkesLab/nctpy](https://github.com/LindenParkesLab/nctpy)
 * documentation: [https://nctpy.readthedocs.io/en/latest/index.html](https://nctpy.readthedocs.io/en/latest/index.html)
+
+## snaplab_tools
+
+* code: [https://github.com/LindenParkesLab/snaplab_tools](https://github.com/LindenParkesLab/snaplab_tools)
+* documentation: TBD
