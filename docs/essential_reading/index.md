@@ -50,6 +50,7 @@ Most of our research uses Magnetic Resonance Imaging (MRI) data. The MRI provide
 The primary way that we analyze neuroimaging data is through the lense of network science. Network science casts neuroimaging data as a graph of nodes (discrete brain regions taken from sMRI) interconnected by edges (white matter pathways from dMRI *or* functional connectivity from fMRI). This graph is stored as an N×N adjacency matrix, A, wherein the N nodes are stored on the rows/columns and the N<sup>2</sup> edges are stored in the entries. We refer to this matrix as the human connectome, and this connectome gives rise to complex topology that we study using tools from network science.
 
 ### Journal articles
+1. Sporns, *et al*. The Human Connectome: A Structural Description of the Human Brain. [*PLOS Comp. Bio.*](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0010042) (2005).
 1. Sporns. The human connectome: a complex network. [*Ann. N. Y. Acad.*](https://nyaspubs.onlinelibrary.wiley.com/doi/10.1111/j.1749-6632.2010.05888.x) (2011).
 1. Fornito *et al*. The connectomics of brain disorders. [*Nature Reviews Neuroscience*](http://www.nature.com/articles/nrn3901) (2015).
 1. Bassett & Sporns. Nature neuroscience. [*Nature Neuroscience*](http://www.nature.com/articles/nn.4502) (2017).
