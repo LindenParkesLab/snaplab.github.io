@@ -23,6 +23,17 @@ Note, the lists below are far from exhaustive. The below should be taken as a st
 # Neuroimaging
 Most of our research uses Magnetic Resonance Imaging (MRI) data. The MRI provides diverse insight into the human brain, including recording information about brain structure and function. The MRI is capable of numerous scan types; a complete discussion of which is beyond the scope of this page. Most relevant to us are the scans that produce T1-weighted images (T1w), the diffusion-weighted images (DWI), and the echo-planar images (EPI). These three scan index brain structure (sMRI), white matter (dMRI), and function (fMRI), respectively. The processing and analysis of MRI data is complex, requiring multiple steps and careful attention for each scan type. Here, we provide a selection of papers that should orient you to these processes, with emphasis on some of the available software that we use.
 
+## Foundational papers
+### T1w (sMRI)
+TBD
+
+### DWI (dMRI)
+TBD
+
+### EPI (fMRI)
+1. Biswal. Functional connectivity in the motor cortex of resting human brain using echo-planar mri. [*Magnetic Resonance in Medicine*](http://doi.wiley.com/10.1002/mrm.1910340409) (1995).
+1. Van Dijk. Intrinsic Functional Connectivity As a Tool For Human Connectomics: Theory, Properties, and Optimization.  [*Journal of Neurophysiology*](https://www.physiology.org/doi/10.1152/jn.00783.2009) (2010).
+
 ## Image processing
 1. Fischl. FreeSurfer. [*NeuroImage*](https://www.sciencedirect.com/science/article/pii/S1053811912000389?via%3Dihub) (2012).
 - FreeSurfer is a software package primarily for the processing and analysis of T1w scans.
@@ -30,7 +41,6 @@ Most of our research uses Magnetic Resonance Imaging (MRI) data. The MRI provide
 - fMRIPrep is a software package for the processing of EPI scans.
 1. Cieslak *et al*. QSIPrep: an integrative platform for preprocessing and reconstructing diffusion MRI data. [*Nature Methods*](https://www.nature.com/articles/s41592-021-01185-5) (2021).
 - QSIPrep is a software package for the processing of DWI scans.
-
 
 ## Quality control of MRI derivatives
 ### T1w (sMRI)
