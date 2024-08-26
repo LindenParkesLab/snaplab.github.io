@@ -23,7 +23,7 @@ Welcome to the SNaP Lab! We're glad to have you with us and hope that you'll hav
 
 <img src="{{ site.baseurl }}/assets/images/minions_welcome.gif" alt="" width="500">
 
-This lab manual draws from many others, including those written by [Jeremy Manning](https://github.com/ContextLab/lab-manual/blob/master/lab_manual.pdf), [Mariam Aly](https://github.com/alylab/labmanual/blob/master/aly-lab-manual.pdf), [Bridget Callaghan](https://bablab.github.io/lab_manual/), [Jonathan Peele](http://jpeelle.net/peellelab_manual.pdf), and Alex Fornito.
+This lab manual draws from many others, including those written by [Jeremy Manning](https://github.com/ContextLab/lab-manual/blob/master/lab_manual.pdf), [Mariam Aly](https://github.com/alylab/labmanual/blob/master/aly-lab-manual.pdf), [Bridget Callaghan](https://bablab.github.io/lab_manual/), [Jonathan Peele](http://jpeelle.net/peellelab_manual.pdf), [Ted Satterthwaite](https://pennlinc.github.io/), and Alex Fornito.
 
 ## Who is this lab manual for?
 Every new member is expected to read this manual and use it as a reference. We believe clear communication of expectations is important, and by reading this manual you will come away with a good understanding of ours. You will also be clear on what you can expect from Linden as your mentor and PI.
