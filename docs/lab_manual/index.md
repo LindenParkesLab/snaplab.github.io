@@ -23,7 +23,7 @@ Welcome to the SNaP Lab! We're glad to have you with us and hope that you'll hav
 
 <img src="{{ site.baseurl }}/assets/images/minions_welcome.gif" alt="" width="500">
 
-This lab manual draws from many others, including those written by [Jeremy Manning](https://github.com/ContextLab/lab-manual/blob/master/lab_manual.pdf), [Mariam Aly](https://github.com/alylab/labmanual/blob/master/aly-lab-manual.pdf), [Bridget Callaghan](https://bablab.github.io/lab_manual/), [Jonathan Peele](http://jpeelle.net/peellelab_manual.pdf), and Alex Fornito.
+This lab manual draws from many others, including those written by [Jeremy Manning](https://github.com/ContextLab/lab-manual/blob/master/lab_manual.pdf), [Mariam Aly](https://github.com/alylab/labmanual/blob/master/aly-lab-manual.pdf), [Bridget Callaghan](https://bablab.github.io/lab_manual/), [Jonathan Peele](http://jpeelle.net/peellelab_manual.pdf), [Ted Satterthwaite](https://pennlinc.github.io/), and Alex Fornito.
 
 ## Who is this lab manual for?
 Every new member is expected to read this manual and use it as a reference. We believe clear communication of expectations is important, and by reading this manual you will come away with a good understanding of ours. You will also be clear on what you can expect from Linden as your mentor and PI.
@@ -105,7 +105,7 @@ These expectations are designed to keep everyone in the lab moving forward produ
 ### Post-docs
 Linden expects that you will;
 
-1. Commit 40 hours a week to your research and lab responsibilities.
+1. Commit ~40 hours a week, on average, to your research and lab responsibilities.
 2. Come prepared to meetings to provide updates on your research.
 3. Develop your own line of research that is consistent with/complementary to the lab's goals, and publish your work in peer-reviewed journals.
 4. Help mentor other trainees in the lab (e.g., undergraduate and graduate students), either because they seek it, or because Linden asks you to.
@@ -117,7 +117,9 @@ Linden expects that you will;
 {: .note-title }
 > Important
 >
-> Regarding funding, though we will only hire you if we can support you for at least one year, it is beneficial to your professional development to get experience writing, and to be awarded, your own grants. If you plan to stay in academia long term, becoming a practiced grant writer is essential. Additionally, if awarded, grants will provide you a great deal of independence during your time in the lab (e.g., you won't have to depend on lab finances to support conference travel etc.).
+> Regarding work hours. As a postdoc, you're expected to work your contracted hours each week (~40 in the case of a full-time postdoc), but Linden won't micromanage your time. Academic research is highly flexible. Linden does not expect you to be at your desk 9am-5pm, 5 days a week. Linden does expect you to put in the work, though, and to (on average) work the equivalent of a full-time week. This could be 9-5, or it could be 12-8, it's up to you. It could also mean taking every Wednesday off and working a day on the weekend to make up. Finally, research ebbs and flows. Sometimes things will be busy, and you might find yourself putting in >40 hours a week to get everything done (e.g., when a paper or grant submission is coming up). Other times things will be quieter, and you can take that time back.
+>
+> Regarding funding. Though we will only hire you if we can support you for at least two years, it is beneficial to your professional development to get experience writing, and to be awarded, your own grants. If you plan to stay in academia long term, becoming a practiced grant writer is essential. Additionally, if awarded, grants will provide you a great deal of independence during your time in the lab (e.g., you won't have to depend on lab finances to support conference travel etc.).
 >
 
 ### Graduate students
@@ -214,18 +216,22 @@ If he is in the lab, you can find Linden in his office. His door is almost alway
 All costs related to lab publications will be fully covered by the lab. Linden will help facilitate these payments. Publication goals will be discussed over the course of a project to determine which outlet is the best fit. If you obtain your own independent funding that includes a budget for publication costs (e.g., through a fellowship or grant), then you will be expected to use that budget and the lab will cover the difference.
 
 ### Travel
-Presenting at conferences is critical to the dissemination of science and a major component of your development as a scientist. If you are presenting your work at a conference, then the travel expenses (flights, accommodation) and conference registration fees will be covered by the lab assuming that all of the following conditions are met:
+Presenting at conferences is critical to the dissemination of science and a major component of your development as a scientist. 
 
-1. You are presenting work from the lab. If you are not presenting work, or you are presenting work from your previous lab, you may attend at your own (or your previous lab's) expense.
-2. You have made reasonable efforts to seek out alternative sources of travel funding (e.g., through travel awards or using your own grants/fellowships). This condition is meant to encourage all lab members to seek their own funding so that Linden can make prudent use of his finite resources.
-3. You make economical choices with respect to your travel and accommodation (e.g., by flying economy classes, staying in reasonably priced hotels).
-4. You have not exceeded 2 lab-funded conferences in the last 12 months.
-5. Your expenses are in accordance with the policies of Rutgers University.
+As of 2024, SNaP Lab graduate students and post-docs who are primarily supervised by Linden, and who are in good standing, are entitled to $4,000 of funding for allowable academic travel per academic year (7/1 to 6/30). These funds will not rollover year to year. 
 
-To obtain lab funding for a conference, **prior to submitting your abstract**, you must:
+We no longer require that this travel be linked to a poster presentation or talk; we are all adult learners and Linden trusts team members to evaluate what travel is most valuable for their development.  To ensure transparency and equity in travel expenses, please log your expenses [here](https://docs.google.com/spreadsheets/d/10AcXOelrwK7vyIe5_Ptl1fz9-12Dw9OMvM32TtA8xqg/edit?usp=sharing) as they are accrued.
 
-1. briefly describe or discuss how attending the conference fits in with your goals and/or plans,
-2. provide confirmation (verbal will do!) that you have applied for any available forms of external funding, and
-3. provide an approximate travel budget, including all registration fees, tickets, etc. Your budget should not include lab events (e.g., lab dinners), which are covered by a separate mechanism. Your budget must be approved by Linden prior to submitting an abstract in order for the lab to cover your expenses. As a general rule of thumb, budgets for domestic conferences typically end up being \$1,500-\$2,500, while budgets for international conferences end up being \$2,500-\$4,000.
+Lab travel funds are _in addition_ to any funds supplied by Rutgers University more broadly, training grants (e.g., T32, K99), or otherwise.  However, non-lab funds should be preferentially spent **before** using limited lab funds. Also, you are expected to make reasonable efforts to seek out alternative sources of travel funding on a per-conference basis (e.g., travel awards). This condition is meant to encourage all lab members to seek their own funding so that Linden can make prudent use of finite lab resources.
+
+If you are presenting your work at a conference, it is our preference that results are in near-final form by the time of your presentation— i.e., the reported results in your poster/talk should be close to what will appear in the paper. We very much try to avoid a "rush for results" ahead of a conference deadline. Results should be solid and sent to co-authors a minimum of 7 days ahead of the conference deadline; this allows for a minimum of 5 days for co-authors to review results, as well as 2 days to integrate feedback and receive final sign-off from Linden.
+
+{: .note-title }
+> Important
+>
+> Conference travel is a privilege, and is dependent upon both available lab funding and being a positive force for the community. This includes supporting colleagues in collaborative projects, testing software, writing documentation, and regular attendance at lab meetings.
+>
+
+# Fin
 
 Did you read the whole thing? Wow. Look at you go. Here's a [prize](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
