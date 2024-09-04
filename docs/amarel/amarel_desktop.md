@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Amarel Desktop
+title: Amarel desktop
 parent: Amarel
 has_toc: true
 ---
 
-# Amarel Desktop
+# Amarel desktop
 {: .no_toc }
 
 ## Table of contents
@@ -20,10 +20,9 @@ has_toc: true
 
 To run interactive, GUI-based apps within a Linux desktop environment, we can use the **Amarel Desktop** service. This offers a full desktop environment that we can access through a web-based VNC viewer.
 
-
 ## How do I get one?
 
-First, go to the Rutgers OARC [OnDemand website](https://ondemand.hpc.rutgers.edu) and log in with your NetID.
+First, go to the Rutgers OARC [OnDemand website](https://ondemand.hpc.rutgers.edu) and log in with your NetID. Note, you will need to be on the Rutgers network to access this website! See [Amarel/Getting started]({{ site.baseurl }}/docs/amarel/getting_started) for details.
 
 Once logged-in, select `Interactive Apps` from the menu bar, then `Amarel Desktop`.
 
