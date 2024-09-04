@@ -22,7 +22,12 @@ To run interactive, GUI-based apps within a Linux desktop environment, we can us
 
 ## How do I get one?
 
-First, go to the Rutgers OARC [OnDemand website](https://ondemand.hpc.rutgers.edu) and log in with your NetID. Note, you will need to be on the Rutgers network to access this website! See [Amarel/Getting started]({{ site.baseurl }}/docs/amarel/getting_started) for details.
+First, go to the Rutgers OARC [OnDemand website](https://ondemand.hpc.rutgers.edu) and log in with your NetID.
+
+{: .note-title }
+> Note
+> 
+> You will need to be on the Rutgers network to access this website! See [Amarel/Getting started]({{ site.baseurl }}/docs/amarel/getting_started) for details.
 
 Once logged-in, select `Interactive Apps` from the menu bar, then `Amarel Desktop`.
 
