@@ -64,10 +64,10 @@ Array jobs are a very useful HPC feature that allows you to spawn multiple jobs 
 
 This simple feature is very powerful, because it allows you to efficiently run a single script multiple times in parallel while leveraging the `SLURM_ARRAY_TASK_ID` to do different things. For example, say you have a script that processes neuroimaging data for a single subject, you can leverage array jobs to process 500 subjects at once by using `SLURM_ARRAY_TASK_ID` to read in different subjects from a list or a data structure.
 
-Unfortunately, array jobs are capped on Amarel. You can run 500 jobs at once on the main partition and 250 jobs at once on the `gpu` partition. But, we can code our way around this! The simplest solution is to just do serial processing inside your `submit_array_jobs.sh` script. You'll still only get 500 (250) jobs running at once, but each job will now run through multiple `SLURM_ARRAY_TASK_ID` values. This would like something like this:
+Unfortunately, array jobs are capped on Amarel. You can run 500 jobs at once on the main partition and 250 jobs at once on the gpu partition. But, we can code our way around this! The simplest solution is to just do serial processing inside your `submit_array_jobs.sh` script. You'll still only get 500 (250) jobs running at once, but each job will now run through multiple `SLURM_ARRAY_TASK_ID` values. This would look like something like this:
 
 ```shell
-for i in {0..1500..500}; do
+for i in $(seq 0 500 1500); do
     NEW_SLURM_ARRAY_TASK_ID=$((${SLURM_ARRAY_TASK_ID} + ${i}))
     echo "NEW_SLURM_ARRAY_TASK_ID:" ${NEW_SLURM_ARRAY_TASK_ID}
     python ${scriptsdir}/my_python_script.py --option_a 'foo' --option_b 123 --option_c ${NEW_SLURM_ARRAY_TASK_ID}
