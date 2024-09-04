@@ -18,7 +18,7 @@ has_toc: true
 
 # Slurm scheduler
 
-Amarel uses the popular Slurm Workload Manager. Slurm has it's own excellent documentation, which you can find [here](https://slurm.schedmd.com/documentation.html). Here, we include a template shell script that will allow you to submit jobs to Amarel using Slurm.
+Amarel uses the popular Slurm Workload Manager. Slurm has its own excellent documentation, which you can find [here](https://slurm.schedmd.com/documentation.html). Here, we include a template shell script that will allow you to submit jobs to Amarel using Slurm.
 
 Template Slurm script: [submit_array_jobs.sh](/assets/scripts/submit_array_jobs.sh)
 
@@ -45,7 +45,7 @@ The first thing to consider is which Amarel partition you want to submit your jo
 # SBATCH --gres=gpu:1
 ```
 
-If you use `partition=main`, your job will be submitted to the main Amarel pool, which is a pool shared by all of Rutgers. It is a very large pool but we do not have exclusive access to it. If you use `partition=p_dz268_1`, your job will be submitted to the CAHBIR pool. This pool only has 640 cores (main has many more than this), but only members of CAHBIR have access to this pool, so there is less competition. Finally, if you use `partition=gpu`, your job will be submitted to a pool of nodes that have gpu support. Like main, this pool is shared with all of Rutgers; but in our experience it doesn't get used much! Amarel is really well equipped with gpus, so this pool can be powerful if your jobs require CUDA acceleration.
+If you use `partition=main`, your job will be submitted to the main Amarel pool, which is a pool shared by all of Rutgers. It is a very large pool but we do not have exclusive access to it. If you use `partition=p_dz268_1`, your job will be submitted to the CAHBIR pool. This pool only has 640 cores (main has many more than this), but only members of CAHBIR have access to this pool, so there is less competition. Finally, if you use `partition=gpu`, your job will be submitted to a pool of nodes that have GPU support. Like main, this pool is shared with all of Rutgers; but in our experience it doesn't get used much! Amarel is really well equipped with GPUs, so this pool can be powerful if your jobs require CUDA acceleration.
 
 {: .note-title }
 > Important
@@ -77,3 +77,31 @@ done
 Now, `NEW_SLURM_ARRAY_TASK_ID` will loop through [0, 500, 1000, 1500] in the first job and [1, 501, 1001, 1501] in the second job, etc. This will result in your 500 array jobs performing 2000 jobs worth of processing (when `SLURM_ARRAY_TASK_ID=499`, `NEW_SLURM_ARRAY_TASK_ID` will loop through [499, 999, 1499, 1999]). They will also each take 4 times longer.
 
 If you don't need an array job, just add a space after the `#` to the corresponding header line, and `SLURM_ARRAY_TASK_ID` will never be generated (and Amarel will only launch one job).
+
+## Selecting nodes based on features
+
+Each node in the processing pool is associated with certain features such as its location (e.g., Camden, Piscataway), the CPU architecture, and, where applicable, the GPU architecture. You can use this to ask the scheduler to send your job to nodes that have certain features. For example, if you're submitting a job to the `gpu` partition, there is no restriction (by default) on which type of GPU will be used to process your job. For relatively quick jobs, this is no big deal. However, for jobs that require many hours of GPU time, this could make a huge difference.
+
+The good news is that it's very easy to select nodes with certain types of GPUs! All you have to do is add one line to your slurm job script instructing the scheduler of your feature constraint.
+
+E.g., here's how you would select A100 and RTX 3090 GPUs, both of which are tagged with the *ampere* feature:
+```shell
+#SBATCH --constraint=ampere
+```
+
+If you'd like to use multiple types of GPUs, you can specify several constraints separated by `|` (the OR operator). E.g., to use A100 (*ampere*), RTX 3090 (*ampere*), and L40S (*adalovelace*), the line would be:
+```shell
+#SBATCH --constraint=ampere|adalovelace
+```
+
+Here is a list of features and their associated GPUs (updated Sep. 2024):
+
+| Feature | GPU(s)  |
+| :------ | :--- |
+| adalovelace | L40S |
+| ampere | A100 PCIE 40GB, GeForce RTX 3090 |
+| k80 | Tesla K80 |
+| maxwell | Quadro M6000 |
+| pascal | Tesla P100 PCIE 12GB |
+| titan | GeForce RTX2080 Ti |
+| volta | Tesla V100 PCIE 32GB |
