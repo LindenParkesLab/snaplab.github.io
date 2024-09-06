@@ -182,9 +182,9 @@ Slack will be used as the primary means of lab communication. Email is a notorio
 ### Calendars
 We use Google Calendar to track meetings, lab-wide events, and known absences. Upon arrival, you will be invited to the lab's calendar, where you fill find:
 
-1. **Meetings**. This is where we record meetings.
-2. **Events**. This is where we record upcoming conferences, talks, activities, and other *bits 'n' pieces*.
-3. **Where am i?** This calendar tracks Linden's whereabouts and known absences (e.g., illness, travel, holidays, etc.) as well as whether he is planning to be in the lab on a given day. This is useful for tracking Linden's availability. You are *not obligated to use this calendar yourself*, but you are welcome to. It can be useful for planning purposes; for example, putting your travel dates down ensures that Linden won't bother you during your time away!
+1. **Meetings**. This calendar is where we record meetings.
+2. **Events**. This calendar is where we record upcoming conferences, talks, activities, and other *bits 'n' pieces*.
+3. **Where am I?** This calendar is where lab members note whether they plan to be on campus or in the lab on a given day. It also notes known absences (e.g., illness, travel, holidays). We have found this useful in helping the lab to maximize the value of our hybrid structure (e.g., it minimizes the risk of you coming in only to find that no one else is around). As such, please do your best to use it diligently for everyone's benefit. For example, if you're going to be on campus for the day but plan to spend all your time at UBHC and none at SRB, create an all-day event that reads "YourName @ UBHC." This calendar is also useful for helping Linden to respect your off time; for example, putting your travel dates down ensures that Linden won't bother you during your time away!
 
 ### Deadlines
 We are big believers in work-life balance. Linden will support you to maintain your work-life balance, and he asks that you support his by managing your deadlines diligently and factoring in ample time to provide feedback.
