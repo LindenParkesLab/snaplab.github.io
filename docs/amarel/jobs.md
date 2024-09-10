@@ -96,12 +96,18 @@ If you'd like to use multiple types of GPUs, you can specify several constraints
 
 Here is a list of features and their associated GPUs (updated Sep. 2024):
 
-| Feature | GPU(s)  |
-| :------ | :--- |
-| adalovelace | L40S |
-| ampere | A100 PCIE 40GB, GeForce RTX 3090 |
-| k80 | Tesla K80 |
-| maxwell | Quadro M6000 |
-| pascal | Tesla P100 PCIE 12GB |
-| titan | GeForce RTX2080 Ti |
-| volta | Tesla V100 PCIE 32GB |
+| Feature | GPU(s) | Release date |
+| :------ | :----- | :----------- |
+| adalovelace | L40S | October 2022 |
+| ampere | A100 PCIE 40GB, GeForce RTX 3090 | June 2020 |
+| titan | GeForce RTX2080 Ti | September 2018 |
+| volta | Tesla V100 PCIE 32GB | March 2018 |
+| pascal | Tesla P100 PCIE 12GB | June 2016 |
+| maxwell | Quadro M6000 | March 2015 |
+| k80 | Tesla K80 | November 2014 |
+
+If you don't know which GPUs are best for your job, we recommend at least avoiding the oldest Quadro M6000 and Tesla K80 cards; a modern CPU will often be faster than these old GPUs. Thus, a good a default would be:
+
+```shell
+#SBATCH --constraint=adalovelace|ampere|titan|volta|pascal
+```
