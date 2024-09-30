@@ -177,7 +177,7 @@ Slack will be used as the primary means of lab communication. Email is a notorio
 
 1. **snaplab_general**. Gor general lab discussion.
 2. **snaplab_papers**. For sharing papers.
-3. **snaplab_scrum**. For coordinating our weekly scrum. The scrum is a place to discuss any coding/analysis challenges related to projects. It is accompanied by a weekly 60-minute zoom call that is available on short notice to anyone who wants to sign up and workshop a problem.
+3. **snaplab_scrum**. For coordinating our weekly scrum. The scrum is a place to discuss any coding/analysis challenges related to projects. It is accompanied by a weekly 60-minute zoom call that is available on short notice to anyone who wants to sign up and workshop a problem. If you want to sign up for a scrum, find the next open slot on the **Meetings** [calendar](#calendars) (it will be marked by a calendar event called `Scrum [OPEN]`). Edit that event by replacing the `[OPEN]` with your name (e.g. `[Linden]`) and add a zoom link to the event. Finally, announce on the slack channel that you've taken a slot and check that people can attend! Lab members should be keeping the weekly scrum slot available by default, so they should be able to attend, but it's always worth checking! If you want to move your scrum slot around to accomodate peoples' schedules, feel free to do so.
 
 ### Calendars
 We use Google Calendar to track meetings, lab-wide events, and known absences. Upon arrival, you will be invited to the lab's calendar, where you fill find:
