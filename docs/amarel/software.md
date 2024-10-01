@@ -25,7 +25,7 @@ fmriprep is a popular tool for processing fMRI data. You can read about it [here
 Start by loading an interactive session on Amarel, like so:
 
 ```shell
-srun --partition=p_dz268_1 --ntask=4 --mem=12000 --time=01:00:00 --pty bash
+srun --partition=p_dz268_1 --ntasks=4 --mem=12000 --time=01:00:00 --pty bash
 ```
 
 {: .note-title }
