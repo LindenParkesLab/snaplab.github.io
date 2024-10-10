@@ -72,3 +72,25 @@ qcount | tail -1 | awk '{print $1}'
 }
 #--------------------------------------------------
 ```
+
+## `psout`
+
+Want to quickly check the progress of all your currently running jobs? Add the following `psout` function to your `.bashrc`:
+
+```bash
+#--------------------------------------------------
+# print slurm outputs
+psout () {
+for i in *.out; do echo; echo ${i}; tail -${1} ${i}; echo; done
+}
+#--------------------------------------------------
+
+```
+
+Then, navigate to where you have a bunch of slurm*.out files and run:
+
+```bash
+$ psout 1
+```
+
+This will print out the last line of every *.out file in your directory. Note, this can lead to a lot of information being printed to your command line.
