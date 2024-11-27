@@ -41,7 +41,6 @@ Add the following to your `.bashrc`:
 
 ```bash
 #--------------------------------------------------
-# squeue alias
 alias myq='squeue --me -r'
 #--------------------------------------------------
 ```
@@ -73,6 +72,16 @@ qcount | tail -1 | awk '{print $1}'
 #--------------------------------------------------
 ```
 
+## `qcancel`
+
+Need to cancel all of your jobs? Add the following to your `.bashrc`:
+
+```bash
+#--------------------------------------------------
+alias qcancel='scancel --me'
+#--------------------------------------------------
+```
+
 ## `psout`
 
 Want to quickly check the progress of all your currently running jobs? Add the following `psout` function to your `.bashrc`:
@@ -94,3 +103,14 @@ $ psout 1
 ```
 
 This will print out the last line of every *.out file in your directory. Note, this can lead to a lot of information being printed to your command line.
+
+
+## `qcancel`
+
+Need to delete all of the slurm*.out files in your current directory? Add the following to your `.bashrc`:
+
+```bash
+#--------------------------------------------------
+alias psclear='rm -rf slurm*.out'
+#--------------------------------------------------
+```
