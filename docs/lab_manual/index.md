@@ -125,15 +125,24 @@ Linden expects that you will;
 ### Graduate students
 Linden expects that you will;
 
-1. Come prepared to meetings to provide updates on your research.
-2. Develop your dissertation research; this should ideally include at least 3 substantial pieces of work that come together to address a central research question. If this sounds daunting, don't panic! Linden will help you.
-3. Strive to publish your dissertation work.
-4. Help mentor undergraduate students, either because they seek it, or because Linden asks you to.
-5. Present your work at lab meetings, to the broader university community, at other research labs, and at national and international conferences. Linden will help you coordinate this.
-6. Apply for eligible grants/fellowships (e.g., from NIH, NSF). Getting grant writing experience early is important and will better set you up for success during your postdoc (if you choose to do one).
-7. Engage in Teaching Assistantships (TAs) if and when it becomes required. 
-8. Manage your program-related deadlines, and communicate them with Linden so that he can assist you with meeting them.
-9. Submit work for feedback in a timely manner such that Linden has adequate time to provide it (see lab policy on [deadlines](#deadlines)).
+1. Commit ~20 hours a week, on average, to your research and lab responsibilities.
+2. Come prepared to meetings to provide updates on your research.
+3. Develop your dissertation research; this should ideally include at least 3 substantial pieces of work that come together to address a central research question. If this sounds daunting, don't panic! Linden will help you.
+4. Strive to publish your dissertation work.
+5. Help mentor undergraduate students, either because they seek it, or because Linden asks you to.
+6. Present your work at lab meetings, to the broader university community, at other research labs, and at national and international conferences. Linden will help you coordinate this.
+7. Apply for eligible grants/fellowships (e.g., from NIH, NSF). Getting grant writing experience early is important and will better set you up for success during your postdoc (if you choose to do one).
+8. Engage in Teaching Assistantships (TAs) if and when it becomes required. 
+9. Manage your program-related deadlines, and communicate them with Linden so that he can assist you with meeting them.
+10. Submit work for feedback in a timely manner such that Linden has adequate time to provide it (see lab policy on [deadlines](#deadlines)).
+
+{: .note-title }
+> Important
+>
+> Regarding research hours. Like postdocs, Linden won't micromanage your time. Academic research is highly flexible. Linden does not expect you to be at your desk 9am-5pm, 5 days a week. Linden does expect you to put in the work, though, and to (on average) invest 20 hours a week in your research. As above, sometimes things will be busy, and you might find yourself putting in >20 hours a week to get everything done (e.g., when a paper or grant submission is coming up). Other times things will be quieter, and you can take that time back.
+>
+> Regarding program requirements. Linden's department home is in Psychiatry, which does not have a PhD program. As such, if you join the lab as a graduate student, you will likely come through another department that Linden has a secondary appointment in (e.g., Psychology, Neuroscience). Since Linden is not a core member of these PhD programs, it is important you actively manage your program-related goals and communicate them clearly with Linden. Linden can only help you manage your program-related goals if he knows about them, and he will only learn about them through you.
+>
 
 # Lab Policies
 
