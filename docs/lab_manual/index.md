@@ -131,8 +131,9 @@ Linden expects that you will;
 4. Help mentor undergraduate students, either because they seek it, or because Linden asks you to.
 5. Present your work at lab meetings, to the broader university community, at other research labs, and at national and international conferences. Linden will help you coordinate this.
 6. Apply for eligible grants/fellowships (e.g., from NIH, NSF). Getting grant writing experience early is important and will better set you up for success during your postdoc (if you choose to do one).
-7. Manage your program-related deadlines, and communicate them with Linden so that he can assist you with meeting them.
-8. Submit work for feedback in a timely manner such that Linden has adequate time to provide it (see lab policy on [deadlines](#deadlines)).
+7. Engage in Teaching Assistantships (TAs) if and when it becomes required. 
+8. Manage your program-related deadlines, and communicate them with Linden so that he can assist you with meeting them.
+9. Submit work for feedback in a timely manner such that Linden has adequate time to provide it (see lab policy on [deadlines](#deadlines)).
 
 # Lab Policies
 
