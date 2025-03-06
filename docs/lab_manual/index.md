@@ -125,7 +125,7 @@ Linden expects that you will;
 ### Graduate students
 Linden expects that you will;
 
-1. Commit ~20 hours a week, on average, to your research and lab responsibilities.
+1. Commit ~25 hours a week, on average, to your research and lab responsibilities.
 2. Come prepared to meetings to provide updates on your research.
 3. Develop your dissertation research; this should ideally include at least 3 substantial pieces of work that come together to address a central research question. If this sounds daunting, don't panic! Linden will help you.
 4. Strive to publish your dissertation work.
@@ -139,7 +139,7 @@ Linden expects that you will;
 {: .note-title }
 > Important
 >
-> Regarding research hours. Like postdocs, Linden won't micromanage your time. Academic research is highly flexible. Linden does not expect you to be at your desk 9am-5pm, 5 days a week. Linden does expect you to put in the work, though, and to (on average) invest 20 hours a week in your research. As above, sometimes things will be busy, and you might find yourself putting in >20 hours a week to get everything done (e.g., when a paper or grant submission is coming up). Other times things will be quieter, and you can take that time back.
+> Regarding research hours. Like postdocs, Linden won't micromanage your time. Academic research is highly flexible. Linden does not expect you to be at your desk 9am-5pm, 5 days a week. Linden does expect you to put in the work, though, and to (on average) invest 25 hours a week in your research. As above, sometimes things will be busy, and you might find yourself putting in >25 hours a week to get everything done (e.g., when a paper or grant submission is coming up). Other times things will be quieter, and you can take that time back.
 >
 > Regarding program requirements. Linden's department home is in Psychiatry, which does not have a PhD program. As such, if you join the lab as a graduate student, you will likely come through another department that Linden has a secondary appointment in (e.g., Psychology, Neuroscience). Since Linden is not a core member of these PhD programs, it is important you actively manage your program-related goals and communicate them clearly with Linden. Linden can only help you manage your program-related goals if he knows about them, and he will only learn about them through you.
 >
