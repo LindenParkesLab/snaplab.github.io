@@ -51,14 +51,26 @@ Once you've filled out your request, click the blue `Submit Request` in the top 
 
 # Booking travel via Concur directly
 
-[TBD]
+While you can book certain things yourself and get reimbursed (see below), it is preferable to book as much of your trip as possible directly through **Concur**. This minimizes your out-of-pocket expenses. Also, Rutgers *requires* that we book flights via **Concur**; *you cannot book these yourself*. Flights, cars, hotels, and Amtrak trains can all be booked using **Concur**. All of these can be searched and booked using the widget on the left hand side of the homepage:
+
+<img src="{{ site.baseurl }}/assets/images/concur_travel/concur_booking_widget.png" alt="" width="250">
 
 # Submitting a expense report after you travel
 
-Once you get back from your trip---and assuming you have an approved travel authorization request---you're ready to submit the final expense report. Note, this is where you will get your out-of-pocket expenses reimbursed. To start, navigate to your approved request that you submitted above. Once loaded, you should see that the blue button that once said `Submit Request` now says `Create Expense Report`: 
+Once you get back from your trip---and assuming you have an approved travel authorization request---you're ready to submit the final expense report. Note, this is where you will get your out-of-pocket expenses reimbursed. To start, navigate to your approved request that you submitted above. Once loaded, you should see that the blue button that used to say `Submit Request` now says `Create Expense Report`: 
 
 <img src="{{ site.baseurl }}/assets/images/concur_travel/approved_request.png" alt="" width="800">
 
-Click the `Create Expense Report` button and you will be taken to a page that looks just like the travel authorization request. Note, if everything worked, you should see your approved request reference in the top left corner of your newly created expense report. The process is similar to the above, but now with more detail. Use the `Travel Allowance` and the `+ Add Expense` button to add your final expenses. They key difference between the expense report and travel request, is that the expense report requires receipts for all expenses except for per-diem. 
+Click `Create Expense Report` and you will be taken to a page that looks just like the travel authorization request. Note, if everything worked, you should see your approved request referenced in the top left corner of your newly created expense report. The process is similar to the above, but now with more detail. Use the `Travel Allowance` and the `+ Add Expense` button to add your per-diem and your final expenses. The key difference between the travel request and expense report is that the latter requires receipts for all expenses (except for per-diem). 
 
-Let's walk through an example of adding an expense. First, click `+ Add Expense` and toggle to the `New Expense` section in the subsequent window. 
+Let's walk through an example of adding an expense. First, click `+ Add Expense` and then toggle to the `New Expense` tab in the subsequent window. From that window, select `Conference/Seminar Registration Fees`. This will bring up the following window:
+
+<img src="{{ site.baseurl }}/assets/images/concur_travel/new_expense.png" alt="" width="800">
+
+You will need to fill out all the boxes marked with a red asterisk. Most importantly, you will also need to upload a receipt (click `Add Receipt` button) and add `Attendees`. For the latter, you just need to add yourself as an attendee. Finally, for `Conference/Seminar Registration Fees` in particular, you will need to also upload some evidence of conference attendance (e.g., a conference program booklet or attendence certificate). See below for an example of a completed `Conference/Seminar Registration Fees` expense:
+
+<img src="{{ site.baseurl }}/assets/images/concur_travel/completed_expense.png" alt="" width="800">
+
+Once completed, click `Save Expense` in the bottom left and you will be brought back to the report page. From there you can more expenses.
+
+Once completed, click `Submit Report`. You may encounter errors along the way. If you have any questions, please ask Linden.
