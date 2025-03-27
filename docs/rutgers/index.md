@@ -43,3 +43,7 @@ Piscataway, NJ 08854
 ## Rutgers Holidays
 
 See here for holidays recognized by Rutgers: [2024 University Holiday and Closings Schedule](https://uhr.rutgers.edu/hr-professional/2024-university-holiday-and-closings-schedule)
+
+## Booking Travel
+
+All travel is booked and reimbursed via Concur. See this [tutorial]({{ site.baseurl }}/docs/rutgers/booking_travel).
