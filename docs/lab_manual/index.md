@@ -209,11 +209,7 @@ Note that the above feedback deadlines may need to be adjusted to account for pe
 ### Computers
 All lab members need a computer to get their work done. Depending on your role and the specifics of your project, the lab may provide a computer dedicated to you (e.g., laptop or desktop). Any computers purchased by the lab will remain the property of the lab and should be treated as such. In turn, all computers (including all peripheral equipment) must be returned to the lab when your tenure is complete.
 
-{: .note-title }
-> Important
->
-> Full-time postdocs primarily supervised by Linden will be given a $4,000 tech allowance when they start at the lab. The purpose of this tech allowance is to get postdocs setup with their local computing needs. For example, this might include a new laptop and peripherals. If you're a Mac user, all purchases must go via [Kite & Key](https://kiteandkey.rutgers.edu/). Otherwise, we have access to a wide range of vendors, including Dell & Amazon.
->
+Full-time postdocs and graduate students, primarily supervised by Linden, will be given a $4,000 tech allowance when they start at the lab. This amount is non-expiring and can be used anytime. The purpose of this tech allowance is to get trainees setup with their local computing needs. For example, this might include a new laptop and peripherals. If you're a Mac user, all purchases must go via [Kite & Key](https://kiteandkey.rutgers.edu/). Otherwise, we have access to a wide range of vendors, including Dell & Amazon. Regarding the latter, Rutgers places some restrictions on the Amazon catalogue, but we're able to purchase most things. If you're unsure, just send a link to Linden and he can check.
 
 ### Lab meetings
 We will have a lab meeting every week, which everyone should aim to attend. The meeting will be a hybrid of in-person and Zoom. You can find it on the **Meetings** [calendar](#calendars). Note, owing to the relatively small size of the SNaP Lab, we are currently holding a joint lab meeting with the [Holmes Lab](https://holmeslab.rutgers.edu/).
@@ -228,9 +224,9 @@ All costs related to lab publications will be fully covered by the lab. Linden w
 ### Travel
 Presenting at conferences is critical to the dissemination of science and a major component of your development as a scientist. 
 
-As of 2024, SNaP Lab graduate students and post-docs who are primarily supervised by Linden, and who are in good standing, are entitled to $4,000 of funding for allowable academic travel per academic year (7/1 to 6/30). These funds will not rollover year to year. 
+As of 2024, SNaP Lab graduate students and post-docs who are primarily supervised by Linden, and who are in good standing, are entitled to $4,000 of funding for allowable academic travel per academic year (7/1 to 6/30). Expenses are counted against the year in which they are incurred, even if the conference occurs in a subsequent year. These funds will not rollover year to year. 
 
-We no longer require that this travel be linked to a poster presentation or talk; we are all adult learners and Linden trusts team members to evaluate what travel is most valuable for their development.  To ensure transparency and equity in travel expenses, please log your expenses [here](https://docs.google.com/spreadsheets/d/10AcXOelrwK7vyIe5_Ptl1fz9-12Dw9OMvM32TtA8xqg/edit?usp=sharing) as they are accrued.
+We no longer require that this travel be linked to a poster presentation or talk; we are all adult learners and Linden trusts team members to evaluate what travel is most valuable for their development.  To assist Linden with managing travel budgets, please log your expenses on the [SNaP Lab Travel Spreadsheet](https://docs.google.com/spreadsheets/d/10AcXOelrwK7vyIe5_Ptl1fz9-12Dw9OMvM32TtA8xqg/edit?usp=sharing) as they are accrued. Also see the [Booking travel at Rutgers]({{ site.baseurl }}/docs/rutgers/booking_travel) tutorial for more information on practical details.
 
 Lab travel funds are _in addition_ to any funds supplied by Rutgers University more broadly, training grants (e.g., T32, K99), or otherwise.  However, non-lab funds should be preferentially spent **before** using limited lab funds. Also, you are expected to make reasonable efforts to seek out alternative sources of travel funding on a per-conference basis (e.g., travel awards). This condition is meant to encourage all lab members to seek their own funding so that Linden can make prudent use of finite lab resources.
 

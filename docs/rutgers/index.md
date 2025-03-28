@@ -16,9 +16,9 @@ has_toc: true
 
 ---
 
-The SNaP Lab is based at Rutgers University, New Brunswick, NJ. This page includes some useful information designed to orient you to life at Rutgers.
+# Location
 
-# Lab location
+The SNaP Lab is based at Rutgers University, New Brunswick, NJ. This page includes some useful information designed to orient you to life at Rutgers.
 
 ## Center for Advanced Human Brain Imaging Research (CAHBIR)
 
@@ -38,12 +38,12 @@ Piscataway, NJ 08854
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2437.8437197476674!2d-74.47030356657127!3d40.526008527429006!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c3c714a4460b61%3A0x34a6b7d7681583ce!2sUniversity%20Behavioral%20Health%20Care%20at%20Piscataway%20-%20Main%20Building%20(Rutgers%20Health)!5e0!3m2!1sen!2sus!4v1724629962681!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-# Rutgers Stuff
+# Rutgers Systems and Information
 
-## Rutgers Holidays
+## Holidays
 
-See here for holidays recognized by Rutgers: [2024 University Holiday and Closings Schedule](https://uhr.rutgers.edu/hr-professional/2024-university-holiday-and-closings-schedule)
+The SNaP Lab follows the [Rutgers University Holiday and Closings Schedule](https://uhr.rutgers.edu/hr-professional/2024-university-holiday-and-closings-schedule).
 
 ## Booking Travel
 
-All travel is booked and reimbursed via Concur. See this [tutorial]({{ site.baseurl }}/docs/rutgers/booking_travel).
+All travel is booked and reimbursed via Concur. See the [Booking travel at Rutgers]({{ site.baseurl }}/docs/rutgers/booking_travel) tutorial for more information.
