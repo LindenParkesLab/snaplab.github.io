@@ -206,18 +206,29 @@ If you want multiple back-and-forth rounds of feedback prior to submission, plea
 
 Note that the above feedback deadlines may need to be adjusted to account for periods of the year where Linden may be traveling, sick, or otherwise unavailable. Linden will communicate these disruptions and provide updates on when you can expect your work to be returned.
 
-### Computers
-All lab members need a computer to get their work done. Depending on your role and the specifics of your project, the lab may provide a computer dedicated to you (e.g., laptop or desktop). Any computers purchased by the lab will remain the property of the lab and should be treated as such. In turn, all computers (including all peripheral equipment) must be returned to the lab when your tenure is complete.
-
-Full-time postdocs and graduate students, primarily supervised by Linden, will be given a $4,000 tech allowance when they start at the lab. This amount is non-expiring and can be used anytime. The purpose of this tech allowance is to get trainees setup with their local computing needs. For example, this might include a new laptop and peripherals. If you're a Mac user, all purchases must go via [Kite & Key](https://kiteandkey.rutgers.edu/). Otherwise, we have access to a wide range of vendors, including Dell & Amazon. Regarding the latter, Rutgers places some restrictions on the Amazon catalogue, but we're able to purchase most things. If you're unsure, just send a link to Linden and he can check.
-
 ### Lab meetings
 We will have a lab meeting every week, which everyone should aim to attend. The meeting will be a hybrid of in-person and Zoom. You can find it on the **Meetings** [calendar](#calendars). Note, owing to the relatively small size of the SNaP Lab, we are currently holding a joint lab meeting with the [Holmes Lab](https://holmeslab.rutgers.edu/).
 
 ### Office hours
 If he is in the lab, you can find Linden in his office. His door is almost always open; if it is, feel free to ask for a chat. He will typically say yes, though sometimes he can only spare a couple of minutes. You can find Linden's lab attendance in the **Where am i?** [calendar](#calendars).
 
+### Computers
+All lab members need a computer to get their work done. Depending on your role and the specifics of your project, the lab may provide a computer dedicated to you (e.g., laptop or desktop). Any computers purchased by the lab will remain the property of the lab and should be treated as such. In turn, all computers (including all peripheral equipment) must be returned to the lab when your tenure is complete.
+
+{: .note-title }
+> Important
+>
+> Postdocs and graduate students are expected to use their discretionary fund to cover the cost of their computer and peripherals (see below).
+>
+
 ## Finances
+
+### Discretionary fund
+
+Full-time postdocs and graduate students, primarily supervised by Linden, will be given a $4,000 discretionary fund when they start at the lab. This amount is non-expiring and can be used anytime. The purpose of this fund is (1) to support trainees to get setup with their local computing needs and (2) provide opportunites to engage in professional development activities beyond things like conference travel (e.g., summer courses).
+
+For (1), this might include the purchase of a new laptop and peripherals. If you're a Mac user, all purchases must go via [Kite & Key](https://kiteandkey.rutgers.edu/). Otherwise, we have access to a wide range of vendors, including Dell & Amazon. Regarding the latter, Rutgers places some restrictions on the Amazon catalogue, but we're able to purchase most things. If you're unsure, just send a link to Linden and he can check.
+
 ### Publication costs
 All costs related to lab publications will be fully covered by the lab. Linden will help facilitate these payments. Publication goals will be discussed over the course of a project to determine which outlet is the best fit. If you obtain your own independent funding that includes a budget for publication costs (e.g., through a fellowship or grant), then you will be expected to use that budget and the lab will cover the difference.
 
