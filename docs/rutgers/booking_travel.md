@@ -41,6 +41,12 @@ This should bring up a window that looks like this:
 
 <img src="{{ site.baseurl }}/assets/images/concur_travel/create_request.png" alt="" width="800">
 
+{: .note-title }
+> Note
+>
+> The start date (`Business Travel Start Date`) and end date (`Business Travel End Date`) boxes should be inclusive of both your transit days and your personal days (if there are any). For example, let's say you're going to a 3-day conference that spans April 3rd to April 5th. Assuming it only takes one day to travel and from the conference, then your dates would be April 2nd to April 6th. In the case that you're taking a couple extra days for tourism after the conference, then your dates would be April 2nd to April 8th. That is, you plan to travel on the 4/2, attend the conference on 4/3-4/5, take some personal time on 4/6-4/7, and then travel home on 4/8. Additionally, if you take personal days, you need to select `Yes` from the `Will this trip include personal travel?` dropdown box. Note, you cannot claim any expenses on personal days. 
+>
+
 This window has 5 sections separated by horizontal gray lines (see red numbers). You only need to modify sections 2 and 3. *Do not modify sections 4 and 5*. Here is an example of a modified section 2:
 
 <img src="{{ site.baseurl }}/assets/images/concur_travel/create_request_section2.png" alt="" width="800">
@@ -50,6 +56,12 @@ For section 3, you will need to provide a `Project.Task` number. This will vary 
 <img src="{{ site.baseurl }}/assets/images/concur_travel/blank_request.png" alt="" width="800">
 
 Let's start with `Manage Travel Allowance`. Clicking this button will open a page that allows you fill out information needed to optionally add per-diem expenses to your trip. Note, information does not need to be exact at this stage. Simply fill out your start and end locations and approximate times (e.g., 9am to 5pm) and click `Next`. On the subsequent page, you will be given an option to add days that you want to request reimbursements for. The rates are determined by Rutgers. Note, the tick boxes code for days you want to *exclude* from your per-diem request, not the days you want to *include* in your request. If you want to claim the full per-diem amount, leave all boxes blank and click `Finish`.
+
+{: .note-title }
+> Note
+>
+> You cannot request per-diem on personal days. Make sure to exclude them.
+>
 
 Next, let's look at the `+ Add` button. Clicking this button will allow you to add estimates for `Airfare`, `Accomodation`, and `Conference Registration Fees`. In each of these cases, the estimates do not need to be exact. Just enter in your best attempt at an accurate estimate and click `Save`.
 
@@ -72,9 +84,9 @@ Once you get back from your trip---and assuming you have an approved travel auth
 Click `Create Expense Report` and you will be taken to a page that looks just like the travel authorization request. Note, if everything worked, you should see your approved request referenced in the top left corner of your newly created expense report. The process of completing an expense report is similar to completing the initial travel request, but now with more detail. Use the `Travel Allowance` and the `+ Add Expense` button to add your per-diem and your final expenses. The key difference between the travel request and expense report is that the latter requires receipts for all expenses (except for per-diem). 
 
 {: .note-title }
-> Important
+> Note
 >
-> Regarding per-diem expenses. If you prefer, you can itemize your daily expenses to reimburse the exact amount of your out-of-pocket expenses. In this case, you would not request per-diem reimbursement. That is, you would not add any form of travel allowance to your expense report, and would instead add specific daily expenses as separate expense items using the `+ Add Expense` button. If you want to go this route, you will need to save receipts for every single thing you want reimbursed, including taxis, food, drink etc.
+> Regarding per-diem expenses. If you prefer, you can itemize your daily expenses to reimburse the exact amount of your out-of-pocket expenses. In this case, you would not request per-diem reimbursement. That is, you would not add any form of travel allowance to your expense report, and would instead add specific daily expenses as separate expense items using the `+ Add Expense` button. If you want to go this route, you will need to save receipts for every single thing you want reimbursed, including taxis, food, drink etc. As above, you cannot request reimbursement of out-of-pocket expenses on your personal days.
 >
 
 Let's walk through an example of adding an expense. First, click `+ Add Expense` and a window will open. This window has two tabs, `New Expense` and `Available Expenses`. You will find the `Rutgers AirCard` expense items mentioned above in the `Available Expenses` tab. You can select the relevant expenses and add them to the report. Once you've added any `Rutgers AirCard` expense items, you can toggle to the `New Expense` tab to add out-of-pocket expenses. For example, if you select `Conference/Seminar Registration Fees`, this will bring up the following window:
