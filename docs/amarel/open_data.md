@@ -143,3 +143,41 @@ MICA-MICs
 │
 └───download                                # data downloaded from OSF
 ```
+
+## About the `collated_outputs`
+
+For most of the above datasets, you will find a subdirectory called `collated_outputs` inside the project folder. Inside `collated_outputs`, you will find a set of pickle files (`.pkl`) that store the derivatives from each pipeline in a single dictionary. These files are designed to facilitate quick and easy access to the outputs from our pipelines. See below example for how to work with these files in Python:
+
+```python
+import os
+import numpy as np
+import seaborn as sns
+
+# Location of collated outputs
+in_dir = '/scratch/f_ah1491_1/open_data/HCP_YA/collated_outputs'
+
+# Load pickle file. This will create a Python dictionary in your workspace where keys correspond to subject ids
+with open(os.path.join(in_dir, 'hcpya_connectome.pkl'), 'rb') as handle:
+    data = pickle.load(handle)
+print(list(data.keys())[:5])
+# ['100206', '100307', '100408', '100610', '101006']
+
+# Examine one subject. Data for each subject is also stored as a Python dictionary where, in this case, keys correspond to parcellations
+print(data['100206'].keys())
+# dict_keys(['Schaefer1007', 'Schaefer2007', 'Schaefer4007', '4S156Parcels', '4S256Parcels', '4S456Parcels'])
+
+# Extract and plot a connectome
+subject_id = '100206'
+atlas = '4S456Parcels'
+adjacency = data[subject_id][atlas]
+adjacency_log = np.log(adjacency, out=np.zeros_like(adjacency), where=(adjacency != 0))
+
+f, ax = plt.subplots(figsize=(4, 4))
+sns.heatmap(adjacency_log, ax=ax, square=True, cbar_kws={'shrink': 0.75, 'label': 'log(weights)'})
+ax.set_ylabel('nodes, i')
+ax.set_xlabel('nodes, j')
+ax.set_title('Subject: {0}; Atlas: {1}'.format(subject_id, atlas))
+plt.show()
+```
+
+<img src="{{ site.baseurl }}/assets/images/connectome_100206.png" alt="" width="750">
