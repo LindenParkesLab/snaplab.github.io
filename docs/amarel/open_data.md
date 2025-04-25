@@ -146,7 +146,7 @@ MICA-MICs
 
 ## About the `collated_outputs`
 
-For most of the above datasets, you will find a subdirectory called `collated_outputs` inside the project folder. Inside `collated_outputs`, you will find a set of pickle files (`.pkl`) that store the derivatives from each pipeline in a single dictionary. These files are designed to facilitate quick and easy access to the outputs from our pipelines. See below example for how to work with these files in Python:
+For most of the above datasets, you will find a subdirectory called `collated_outputs` inside the project folder. Inside `collated_outputs`, you will find a set of pickle files (`.pkl`) that store the derivatives from each pipeline in a single dictionary. These files are designed to facilitate quick and easy access to the outputs from our pipelines. If you want to get started with an analysis, downloading the `collated_outputs` onto your laptop is likely going to be the quickest way forward. See below example for how to work with these files in Python:
 
 ```python
 import os
