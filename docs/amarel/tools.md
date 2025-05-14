@@ -93,7 +93,6 @@ psout () {
 for i in *.out; do echo; echo ${i}; tail -${1} ${i}; echo; done
 }
 #--------------------------------------------------
-
 ```
 
 Then, navigate to where you have a bunch of slurm*.out files and run:
@@ -113,4 +112,23 @@ Need to delete all of the slurm*.out files in your current directory? Add the fo
 #--------------------------------------------------
 alias psclear='rm -rf slurm*.out'
 #--------------------------------------------------
+```
+
+## `pswatch`
+
+Want to watch the outputs of a single job scroll by in ~real time? Add the following to your `.bashrc`:
+
+```bash
+#--------------------------------------------------
+# watch slurm outputs for a single file
+pswatch () {
+watch -n 0.1 tail -n 100 ${1}
+}
+#--------------------------------------------------
+```
+
+Then, navigate to where you have a bunch of slurm*.out files and run:
+
+```bash
+$ pswatch ${YOUR_SLURM_FILE}
 ```
