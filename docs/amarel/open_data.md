@@ -34,13 +34,20 @@ Below, we outline several datasets that have already undergone processing and ar
 
 ## Human Connectome Project - Young Adult (HCP-YA)
 
-Location:
-- `/scratch/f_ah1491_1/open_data/HCP_YA`
+### Permissions
 
-Relevant papers:
+Before working with the HCP-YA, you will need to sign up for an account on [BALSA](https://balsa.wustl.edu/). BALSA is where the raw and minimially preprocessed HCP data is stored. Depending on your project needs, you may not need to download any data from BALSA yourself. But, you will need to login to BALSA to accept the HCP-YA data use agreements. There are two data use agreements to read and sign, a standard one called `Data Use Terms` and a second one called `Restricted Data Access`. You will need to complete both before accessing the data on Amarel. 
+
+<img src="{{ site.baseurl }}/assets/images/balsa_hcpya.png" alt="" width="800">
+
+### Relevant papers
 1. [Van Essen et al., 2013](https://linkinghub.elsevier.com/retrieve/pii/S1053811913005351)
 2. [Glasser et al., 2013](https://linkinghub.elsevier.com/retrieve/pii/S1053811913005053)
 
+### Location
+- `/scratch/f_ah1491_1/open_data/HCP_YA`
+
+### File structure
 ```
 HCP_YA
 │   subject_ids.txt                         # list of subject IDs
@@ -83,14 +90,18 @@ HCP_YA
 
 ## Microstructure-Informed Connectomics (MICA-MICs)
 
-Location:
-- `/scratch/f_ah1491_1/open_data/MICA-MICs`
+### Permissions
 
-Relevant papers:
+The MICA-MICs permissions can be read and accepted here by following this [link](https://portal.conp.ca/dataset?id=projects/mica-mics#) and clicking on the `Terms of Use` button.
+
+### Relevant papers
 1. [Royer et al., 2022](https://www.nature.com/articles/s41597-022-01682-y)
 2. [Cruces et al., 2022](https://www.sciencedirect.com/science/article/pii/S1053811922007273?via%3Dihub)
 
+### Location
+- `/scratch/f_ah1491_1/open_data/MICA-MICs`
 
+### File structure
 ```
 MICA-MICs
 │   subject_ids.txt                         # list of subject IDs
