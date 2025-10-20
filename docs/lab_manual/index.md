@@ -192,7 +192,7 @@ Slack will be used as the primary means of lab communication. Email is a notorio
 ### Calendars
 We use Google Calendar to track meetings, lab-wide events, and known absences. Upon arrival, you will be invited to the lab's calendar, where you fill find:
 
-1. **Meetings**. This calendar is where we record meetings.
+1. **Meetings**. This calendar is where we record meetings that involve Linden. Note, you are not obliged to use this to record your own meetings that don't involve Linden if you don't want to.
 2. **Events**. This calendar is where we record upcoming conferences, talks, activities, and other *bits 'n' pieces*.
 3. **Where am I?** This calendar is where lab members note whether they plan to be on campus or in the lab on a given day. It also notes known absences (e.g., illness, travel, holidays). We have found this useful in helping the lab to maximize the value of our hybrid structure (e.g., it minimizes the risk of you coming in only to find that no one else is around). As such, please do your best to use it diligently for everyone's benefit. For example, if you're going to be on campus for the day but plan to spend all your time at UBHC and none at SRB, create an all-day event that reads "YourName @ UBHC." This calendar is also useful for helping Linden to respect your off time; for example, putting your travel dates down ensures that Linden won't bother you during your time away!
 
