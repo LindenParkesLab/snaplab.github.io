@@ -47,3 +47,7 @@ The SNaP Lab follows the [Rutgers University Holiday and Closings Schedule](http
 ## Booking Travel
 
 All travel is booked and reimbursed via Concur. See the [Booking travel at Rutgers]({{ site.baseurl }}/docs/rutgers/booking_travel) tutorial for more information.
+
+## General Reimbursement
+
+All general reimbursement is handled via Concur. See the [General Reimbursement]({{ site.baseurl }}/docs/rutgers/reimbursement_general) tutorial for more information.

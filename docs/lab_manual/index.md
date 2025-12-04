@@ -249,6 +249,10 @@ If you are presenting your work at a conference, it is our preference that resul
 > Conference travel is a privilege, and is dependent upon both available lab funding and being a positive force for the community. This includes supporting colleagues in collaborative projects, testing software, writing documentation, and regular attendance at lab meetings.
 >
 
+### General reimbursements
+
+For reimbursement of non-travel expenses, see the [General Reimbursement]({{ site.baseurl }}/docs/rutgers/reimbursement_general).
+
 # Fin
 
 Did you read the whole thing? Wow. Look at you go. Here's a [prize](https://www.youtube.com/watch?v=dQw4w9WgXcQ).

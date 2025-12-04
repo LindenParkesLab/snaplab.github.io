@@ -102,13 +102,3 @@ Once completed, click `Save Expense` in the bottom left and you will be brought 
 Once you've added all your `Rutgers AirCard` and out-of-pocket expenses, click `Submit Report`.
 
 Note, you may encounter errors along the way. If you have any questions, please ask Linden. Also, if you have any feedback that would make this tutorial clearer, please speak up!
-
-## Rutgers videos
-
-For more detailed guides, see the following list of videos from Rutgers:
-
-<!-- - [Creating a Travel Request](https://rutgersconnect.sharepoint.com/:v:/r/sites/UPSCOE-JobAids2/Shared Documents/Job Aids/Expense MGMT Aids/Expense Training Material/Training Videos/VIDEO - Creating a Travel Request (Pre-Trip Authorization).mp4?csf=1&web=1&e=nUiipC) -->
-- [Creating a Travel Request (tutorial)](https://rutgersconnect.sharepoint.com/:v:/s/TravelExpenseBPR/EaV_3plCVSxMs7FvSxDjc0cBJONj04WpI-42oLcR6pl0Fw?e=jxTPpC)
-- [Adding a Travel Allowance (per diem) to a travel request](https://rutgersconnect.sharepoint.com/:v:/s/TravelExpenseBPR/EfrmAfAhz1pJiSawm1XENjwBbH6QlQ2097S2ySUc1NbKvA?e=5nHiYt)
-- [Creating an Expense Report](https://rutgersconnect.sharepoint.com/:v:/s/TravelExpenseBPR/ERz6HI8LSe1KsJsZX5W5BiwBlUfUsluNLeXulz9FNz9h2Q?e=LggerG)
-- [Adding expected expenses](https://rutgersconnect.sharepoint.com/:v:/s/TravelExpenseBPR/ER-UWJW5XutHv3WtNMJHCRsBc97ooA0seZUtxoYyMmJ0Bw?e=EZB6M4)
