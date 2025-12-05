@@ -16,13 +16,15 @@ has_toc: true
 {:toc}
 
 ---
-A core component of a project at the SNaP Lab is its documentation. Each lab member is expected to host and document a project's code on the lab's GitHub repository and use that same repository to create a summary webpage, using GitHub Pages.
+A core component of a project at the SNaP Lab is its documentation. Each lab member is expected to host and document a project's code on the LindenParkesLab GitHub repository and use that same repository to create a summary webpage, using GitHub Pages. This is the responsibility of the first author to create and maintain. See [here](https://lindenparkeslab.github.io/nctpy/) for an example of what this looks like.
+
+Creating a GitHub page is straight forward, and it is an excellent skill to have. This tutorial will walk you through the process.
 
 # Managing a project on GitHub
 
 ## Create a GitHub repo for your project
 
-If you haven't done so already, start by creating a repository on the lab's GitHub for your project. If you need a folder structure template, see [`SNaPLab/project_template`](https://github.com/LindenParkesLab/project_template/tree/main).
+Code for all SNaP Lab projects must be stored on the LindenParkesLab GitHub in a repository specifc to that project (e.g., [LindenParkesLab/nct_xr](https://github.com/LindenParkesLab/nct_xr)). If you haven't done so already, start by creating a repository on the lab's GitHub for your project. If you need a folder structure template, see [`SNaPLab/project_template`](https://github.com/LindenParkesLab/project_template/tree/main).
 
 ## Switch to the `gh-pages` branch
 
