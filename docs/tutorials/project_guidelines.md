@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Project Documentation with GitHub Pages
-parent: Documentation
+parent: Tutorials
 has_children: false
 has_toc: true
 ---

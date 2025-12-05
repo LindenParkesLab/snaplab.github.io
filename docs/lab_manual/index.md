@@ -28,7 +28,7 @@ This lab manual draws from many others, including those written by [Jeremy Manni
 ## Who is this lab manual for?
 Every new member is expected to read this manual and use it as a reference. We believe clear communication of expectations is important, and by reading this manual you will come away with a good understanding of ours. You will also be clear on what you can expect from Linden as your mentor and PI.
 
-This lab manual is a **live document** and will be updated periodically. All lab members are welcome to submit feedback and/or edits that improve the content, clarity, and usefulness of this document. Feedback can be submitted directly to Linden (e.g., via Slack or during meetings). Edits can be submitted by following the instructions [here]({% link docs/documentation/documentation_guidelines.md %}).
+This lab manual is a **live document** and will be updated periodically. All lab members are welcome to submit feedback and/or edits that improve the content, clarity, and usefulness of this document. Feedback can be submitted directly to Linden (e.g., via Slack or during meetings). Edits can be submitted by following the instructions [here]({% link docs/tutorials/documentation_guidelines.md %}).
 
 ## What will you get out of reading this lab manual?
 You will obtain the following:

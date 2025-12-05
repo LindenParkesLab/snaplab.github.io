@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Updating the wiki
-parent: Documentation
-nav_order: 1
+parent: Tutorials
+has_children: false
 has_toc: true
 ---
 
