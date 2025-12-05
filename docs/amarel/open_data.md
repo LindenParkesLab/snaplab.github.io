@@ -20,7 +20,7 @@ At the SNaP Lab, we leverage multiple open access datasets to complete our resea
 
 These datasets are hosted on Amarel. We share data storage with the Holmes lab (see [Nodes and storage]({{ site.baseurl }}/docs/amarel/nodes_storage)). All open access datasets are stored in `/scratch/f_ah1491_1/open_data`.
 
-Below, we outline several datasets that have already undergone processing and are ready for use for certain analyses (mostly whole-brain connectivity analyses). Note, this document is a work in progress and will be imperfect. If you want to add content or make changes, please submit a pull request! (see [Updating the wiki]({{ site.baseurl }}/docs/documentation/documentation_guidelines)).
+Below, we outline several datasets that have already undergone processing and are ready for use for certain analyses (mostly whole-brain connectivity analyses). Note, this document is a work in progress and will be imperfect. If you want to add content or make changes, please submit a pull request! (see [Updating the wiki]({{ site.baseurl }}/docs/tutorials/documentation_guidelines)).
 
 # Datasets
 
