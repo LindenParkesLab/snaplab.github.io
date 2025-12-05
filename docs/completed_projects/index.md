@@ -12,3 +12,4 @@ Below is a list of completed projects and their associated publications from the
 | Study Title | Lead Name(s) | Links |
 | ----------- | ------------ | ----- |
 | Network control theory for python (nctpy) | Linden Parkes, Jason Z. Kim | * summary: [nctpy](https://lindenparkeslab.github.io/nctpy/){:target="_blank"}<br>* publication: [Nature Protocols](https://www.nature.com/articles/s41596-024-01023-w)<br>* preprint: [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.08.23.554519v1) |
+| Inferring intrinsic neural timescales using optimal control theory | Jason Z. Kim, Linden Parkes | * summary: [nct_xr](https://lindenparkeslab.github.io/nct_xr/){:target="_blank"}<br>* publication: [Nature Communications](https://doi.org/10.1038/s41467-025-66542-w)<br>* preprint: [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.04.24.650287v1) |
