@@ -237,7 +237,7 @@ Presenting at conferences is critical to the dissemination of science and a majo
 
 As of 2024, SNaP Lab graduate students and post-docs who are primarily supervised by Linden, and who are in good standing, are entitled to $4,000 of funding for allowable academic travel per academic year (7/1 to 6/30). Expenses are counted against the year in which they are incurred, even if the conference occurs in a subsequent year. These funds will not rollover year to year. 
 
-We no longer require that this travel be linked to a poster presentation or talk; we are all adult learners and Linden trusts team members to evaluate what travel is most valuable for their development.  To assist Linden with managing travel budgets, please log your expenses on the [SNaP Lab Travel Spreadsheet](https://docs.google.com/spreadsheets/d/10AcXOelrwK7vyIe5_Ptl1fz9-12Dw9OMvM32TtA8xqg/edit?usp=sharing) as they are accrued. Also see the [Booking travel at Rutgers]({{ site.baseurl }}/docs/rutgers/booking_travel) tutorial for more information on practical details.
+We no longer require that this travel be linked to a poster presentation or talk; we are all adult learners and Linden trusts team members to evaluate what travel is most valuable for their development.  To assist Linden with managing travel budgets, please log your expenses on the [SNaP Lab Travel Spreadsheet](https://docs.google.com/spreadsheets/d/10AcXOelrwK7vyIe5_Ptl1fz9-12Dw9OMvM32TtA8xqg/edit?usp=sharing) as they are accrued. Also see the [Booking travel at Rutgers]({{ site.baseurl }}/docs/tutorials/booking_travel) tutorial for more information on practical details.
 
 Lab travel funds are _in addition_ to any funds supplied by Rutgers University more broadly, training grants (e.g., T32, K99), or otherwise.  However, non-lab funds should be preferentially spent **before** using limited lab funds. Also, you are expected to make reasonable efforts to seek out alternative sources of travel funding on a per-conference basis (e.g., travel awards). This condition is meant to encourage all lab members to seek their own funding so that Linden can make prudent use of finite lab resources.
 
@@ -251,7 +251,7 @@ If you are presenting your work at a conference, it is our preference that resul
 
 ### General reimbursements
 
-For reimbursement of non-travel expenses, see the [General Reimbursement]({{ site.baseurl }}/docs/rutgers/reimbursement_general).
+For reimbursement of non-travel expenses, see the [General Reimbursement]({{ site.baseurl }}/docs/tutorials/reimbursement_general).
 
 # Fin
 

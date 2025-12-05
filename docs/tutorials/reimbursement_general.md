@@ -1,7 +1,7 @@
 ---
 layout: default
 title: General Reimbursement
-parent: Rutgers
+parent: Tutorials
 has_children: false
 has_toc: true
 ---

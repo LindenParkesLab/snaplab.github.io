@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Booking travel
-parent: Rutgers
+parent: Tutorials
 has_children: false
 has_toc: true
 ---

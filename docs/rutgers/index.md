@@ -44,10 +44,10 @@ Piscataway, NJ 08854
 
 The SNaP Lab follows the [Rutgers University Holiday and Closings Schedule](https://uhr.rutgers.edu/hr-professional/2024-university-holiday-and-closings-schedule).
 
-## Booking Travel
+<!-- ## Booking Travel
 
-All travel is booked and reimbursed via Concur. See the [Booking travel at Rutgers]({{ site.baseurl }}/docs/rutgers/booking_travel) tutorial for more information.
+All travel is booked and reimbursed via Concur. See the [Booking travel at Rutgers]({{ site.baseurl }}/docs/tutorials/booking_travel) tutorial for more information.
 
 ## General Reimbursement
 
-All general reimbursement is handled via Concur. See the [General Reimbursement]({{ site.baseurl }}/docs/rutgers/reimbursement_general) tutorial for more information.
+All general reimbursement is handled via Concur. See the [General Reimbursement]({{ site.baseurl }}/docs/tutorials/reimbursement_general) tutorial for more information. -->
