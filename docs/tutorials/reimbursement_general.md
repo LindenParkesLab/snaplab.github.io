@@ -45,7 +45,7 @@ You will need to fill out all the boxes marked with a red asterisk. Most importa
 
 <img src="{{ site.baseurl }}/assets/images/concur_travel/completed_expense.png" alt="" width="800">
 
-Once completed, click `Save Expense` in the bottom left and you will be brought back to the report page. From there you can add more expenses.
+Note, the `Request` dropdown box will only appear for expense reports that include travel and thus have an associated pre-approval request (see the [Booking travel at Rutgers]({{ site.baseurl }}/docs/tutorials/booking_travel) tutorial for more information). If won't appear for general non-travel related reimbursement requests. Once completed, click `Save Expense` in the bottom left and you will be brought back to the report page. From there you can add more expenses.
 
 Note, you may encounter errors along the way. If you have any questions, please ask Linden.
 
