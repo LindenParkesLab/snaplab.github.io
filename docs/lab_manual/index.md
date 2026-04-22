@@ -41,7 +41,7 @@ As a member of the lab, you are entitled to certain rights, and you agree to tak
 
 <img src="{{ site.baseurl }}/assets/images/fight_for_your_rights.webp" alt="" width="500">
 
-Note, this content was taken from [Jeremy Manning's lab manual](https://github.com/ContextLab/lab-manual/blob/master/lab_manual.pdf).
+*Adapted from [Jeremy Manning's lab manual](https://github.com/ContextLab/lab-manual/blob/master/lab_manual.pdf).*
 
 ### Your rights as a lab member
 
@@ -80,11 +80,11 @@ There are also a few day-to-day things to keep in mind to keep the lab running s
 # Mentorship from Linden
 In addition to the above rights and responsibilities, depending on your role, you can expect certain standards of mentorship from Linden during your time in the lab.
 
-Note, This content was modified from [Mariam Aly's lab manual](https://github.com/alylab/labmanual/blob/master/aly-lab-manual.pdf). 
+*Adapted from [Mariam Aly's lab manual](https://github.com/alylab/labmanual/blob/master/aly-lab-manual.pdf).*
 
-### Post-docs & graduate students
+## Post-docs & graduate students
 
-In addition to your rights and responsibilities, you may expect;
+In addition to your rights and responsibilities, you may expect:
 
 1. Regular meetings with Linden. Typically, these meetings will occur weekly and run for 60 minutes. Note, some flexibility is expected here to account for periods of the year where Linden may be traveling, sick, or otherwise unavailable. You will have the option to meet in-person or via zoom.
 2. Timely feedback on manuscripts, grant submissions, and fellowship applications. Typically, Linden will aim to return your work to you within 2-4 weeks (see lab policy on [deadlines](#deadlines)). Note, this timeframe may vary depending on the length of the document, level of feedback needed, and Linden's current workload.
@@ -103,7 +103,7 @@ In return for mentorship, Linden will expect certain standards from you as a lab
 These expectations are designed to keep everyone in the lab moving forward productively and happily. Help Linden to help you!
 
 ### Post-docs
-Linden expects that you will;
+Linden expects that you will:
 
 1. Commit ~40 hours a week, on average, to your research and lab responsibilities.
 2. Come prepared to meetings to provide updates on your research.
@@ -117,13 +117,13 @@ Linden expects that you will;
 {: .note-title }
 > Important
 >
-> Regarding work hours. As a postdoc, you're expected to work your contracted hours each week (~40 in the case of a full-time postdoc), but Linden won't micromanage your time. Academic research is highly flexible. Linden does not expect you to be at your desk 9am-5pm, 5 days a week. Linden does expect you to put in the work, though, and to (on average) work the equivalent of a full-time week. This could be 9-5, or it could be 12-8, it's up to you. It could also mean taking every Wednesday off and working a day on the weekend to make up. Whatever your work schedule is, please communicate it with Linden so that he is aware of it. Finally, research ebbs and flows. Sometimes things will be busy, and you might find yourself putting in >40 hours a week to get everything done (e.g., when a paper or grant submission is coming up). Other times things will be quieter, and you can take that time back.
+> Regarding work hours. As a postdoc, you're expected to work your contracted hours each week (~40 in the case of a full-time postdoc), but Linden won't micromanage your time. Academic research is highly flexible. Linden does not expect you to be at your desk 9am-5pm, 5 days a week. Linden does expect you to be productive, though, and to (on average) work the equivalent of a full-time week. This could be 9-5, or it could be 12-8, it's up to you. It could also mean taking every Thursday off and working a day on the weekend to make up. Whatever your work schedule is, please communicate it with Linden so that he is aware of it. Finally, research ebbs and flows. Sometimes things will be busy, and you might find yourself putting in >40 hours a week to get everything done (e.g., when a paper or grant submission is coming up). Other times things will be quieter, and you can take that time back.
 >
-> Regarding funding. Though we will only hire you if we can support you for at least two years, it is beneficial to your professional development to get experience writing, and to be awarded, your own grants. If you plan to stay in academia long term, becoming a practiced grant writer is essential. Additionally, if awarded, grants will provide you a great deal of independence during your time in the lab (e.g., you won't have to depend on lab finances to support conference travel etc.).
+> Regarding funding. Though we will only hire you if we can support you for two years, it is beneficial to your professional development to get experience writing, and to be awarded, your own grants. If you plan to stay in academia long term, becoming a practiced grant writer is essential. Additionally, if awarded, grants will provide you a great deal of independence during your time in the lab (e.g., you won't have to depend on lab finances to support conference travel etc.).
 >
 
 ### Graduate students
-Linden expects that you will;
+Linden expects that you will:
 
 1. Commit ~25 hours a week, on average, to your research and lab responsibilities.
 2. Come prepared to meetings to provide updates on your research.
@@ -156,16 +156,18 @@ The lab is committed to ensuring a safe, friendly, and accepting environment for
 If you notice someone being harassed, or are being harassed yourself, tell Linden immediately. If Linden is the cause of your concern, then reach out to the department chair or another trusted faculty member in the department. Dr. [David Zald](https://sites.rutgers.edu/cahbir/people/david-h-zald-ph-d/) is available for this purpose; Dr. Zald is the director of the [Center for Advanced Human Brain Imaging Research](https://sites.rutgers.edu/cahbir/), wherein the lab is based.
 
 ### Research (mis)conduct
-The lab, and the university, is committed to ensuring research integrity, and we take a hard line on research misconduct. We will not tolerate fabrication, falsification, or plagiarism. You should familiarize yourself with Rutgers' policies, available from the website.
+The lab, and the university, is committed to ensuring research integrity, and we take a hard line on research misconduct. We will not tolerate fabrication, falsification, or plagiarism. You should familiarize yourself with Rutgers' policies, available from the [Rutgers Office of Research](https://research.rutgers.edu/).
 
 Research misconduct may be related, in part, to academic pressures regarding research output, and this is an important discussion. If you are feeling pressured to succeed, you should reach out to Linden and we can talk about it; but this pressure is something we all face and is never an excuse to fabricate, falsify, or plagiarize. Also, think about the goal of science and why you are here: we are all here to strive to get as close to the truth as possible regarding the brain and behavior. Not only is research misconduct doing you a disservice, it's also a disservice to the field. And it risks your entire career. It is never right and never worth it. Don't do it.
 
 ### Authorship
 At the start of a new project, the lab member taking on the lead role can expect to be first author (unless otherwise discussed with Linden) and Linden will be the last author. Other lab members who help over the course of the project may be added to the author list depending on their contribution, and their placement will be discussed with all parties involved in the paper. In some cases, where the other lab member provides extensive supervision, writing, and analysis support, they may be joint first author.
 
-If a lab member takes on a project but subsequently hands it off to another lab member, they will most likely lose first-authorship to that lab member, unless co-first-authorship is appropriate. This most often occurs for short-term lab visitors (e.g., summer interns or students) who may begin a project but then decide not to finish it. However, if that short-term visitor wants to continue working on their project beyond their time in the lab, including taking it to completion, they are welcome to do so and will continue to receive support from Linden.
+If a lab member takes on a project but subsequently hands it off to another lab member, they will most likely hand over the first-authorship to that lab member too, unless co-first-authorship is appropriate. That said, if the departing lab member wishes to continue working on their project — including seeing it through to completion — they are welcome to do so and will continue to receive support from Linden. This will require a genuine commitment to the project as an alumnus, since some projects are tied to funding goals or other timelines. If that commitment is not feasible, the project can be handed off, either to Linden or another lab member, at the point of departure.
 
-In cases where a lab member brings an incomplete project to the lab from their previous lab, Linden expects to be invited to participate as a coauthor if that lab member intends to spend significant lab time finishing that project. However, if the lab member intends to finish their carry over project entirely on their own time, then Linden does not need to be included. In either case, Linden expects you to communicate what you're working on, and in what capacity, with him. This is important as Linden has reporting obligations to various funding bodies, and he needs to know which projects are being supported---in whole or in part---by certain grants.
+In cases where a lab member brings an incomplete project to the lab from their previous lab, Linden expects to be invited to participate as a coauthor if that lab member intends to spend lab time finishing that project. However, if the lab member intends to finish their carry over project entirely on their own time, then Linden does not need to be included. In either case, Linden expects you to communicate what you're working on, and in what capacity, with him. This is important as Linden has reporting obligations to various funding bodies, and he needs to know which projects are being supported — in whole or in part — by certain grants.
+
+Lastly, if someone at Rutgers invites a lab member to participate in a collaboration, Linden expects to be invited to participate as a coauthor.
 
 All of these issues will be discussed openly, and you should feel free to bring them up if you are not sure of your authorship status or want to challenge it. As we often deal with large and complex datasets involving big collaborations, there are no hard and fast rules for authorship.
 
@@ -174,33 +176,57 @@ Lab members are required to share their code online with the community. Generall
 
 We also share our work with the world via preprints. The lab policy is to upload a preprint of a manuscript simultaneously with initial submission to a journal (unless that is not allowable by the journal). The preferred preprint servers are [bioRxiv](https://www.biorxiv.org/) and [medRxiv](https://www.medrxiv.org/). We also put PDFs of all our preprints on this website (see [Completed Projects]({% link docs/completed_projects/index.md %})), and lab members should share these with whoever asks.
 
-## General Things
+## Lab Operations
 
 ### Lab structure
-We are a hybrid lab. Rutgers is centrally located in the Northeast Corridor of the USA. As such, many lab members live spread out across the region, and some have relatively long commutes. We have chosen to support this by embracing a hybrid lab structure. However, this structure is not without its challenges; working from home is great, but it can create barriers to connecting with your colleagues, building and maintaing an intellectual environment, as well as being social. To combat some of these challenges, we expect all lab members to embrace the hybrid lab structure purposefully and help it be successful for everyone. To that end, we have implemented the following polices:
+We are a hybrid lab. Rutgers is centrally located in the Northeast Corridor of the USA. As such, many lab members live spread out across the region, and some have relatively long commutes. We have chosen to support this by embracing a hybrid lab structure. However, this structure is not without its challenges; working from home is great, but it can create barriers to connecting with your colleagues, building and maintaining an intellectual environment, and being social. To combat some of these challenges, we expect all lab members to embrace the hybrid lab structure purposefully and help it be successful for everyone. To that end, we have implemented the following policies:
 
-1. All-hands day. Everyone is expected to be in the lab at least one day a week on the *same* day. At the moment, that day is Monday.
-2. Slack. We use slack for lab communication (see [communication](#communication) below). Everyone is expected to have Slack installed on their computers and engage actively with the lab there.
+1. **All-hands days.** All lab members are expected on campus on Mondays and Wednesdays, though the firmness of this expectation differs between the two days.
+   - **Mondays** are firm. Everyone should be in unless they are sick, on vacation, traveling for a conference, or there is an emergency, and these occasions should be communicated with Linden in advance where possible.
+   - **Wednesdays** are also a default in-person day, but you may opt to work from home if something comes up. In that case, please log it in the *Where am I?* calendar (see [Calendars](#calendars)).
 
-### Communication
-Slack will be used as the primary means of lab communication. Email is a notoriously oversubscribed communication medium for PIs, which can result in many missed emails. To combat this, all direct communication with Linden should take place on Slack, including exchanging attachments. We will also create dedicated Slack channels for each lab project. Upon arrival, you will be invited to join the lab's Slack workspace and you will be expected to install Slack on your computer. On slack, we also have a handful of lab-wide channels:
-
-1. **snaplab_general**. Gor general lab discussion.
-2. **snaplab_papers**. For sharing papers.
-3. **snaplab_scrum**. For coordinating our weekly scrum. The scrum is a place to discuss any coding/analysis challenges related to projects. It is accompanied by a weekly 60-minute zoom call that is available on short notice to anyone who wants to sign up and workshop a problem. If you want to sign up for a scrum, find the next open slot on the **Meetings** [calendar](#calendars) (it will be marked by a calendar event called `Scrum [OPEN]`). Edit that event by replacing the `[OPEN]` with your name (e.g. `[Linden]`) and add a zoom link to the event. Finally, announce on the slack channel that you've taken a slot and check that people can attend! Lab members should be keeping the weekly scrum slot available by default, so they should be able to attend, but it's always worth checking! If you want to move your scrum slot around to accomodate peoples' schedules, feel free to do so.
+   Keep in mind that all-hands days are not a ceiling on your in-person attendance. Depending on your role, you may need to be on campus on other days as well — for example, if you are taking classes, running participant scans, or are expected to attend an in-person meeting or talk.
 
 ### Calendars
-We use Google Calendar to track meetings, lab-wide events, and known absences. Upon arrival, you will be invited to the lab's calendar, where you fill find:
+We use Google Calendar to track meetings, lab-wide events, and campus attendance. Upon arrival, you will be invited to the lab's calendar, where you will find:
 
-1. **Meetings**. This calendar is where we record meetings that involve Linden. Note, you are not obliged to use this to record your own meetings that don't involve Linden if you don't want to.
-2. **Events**. This calendar is where we record upcoming conferences, talks, activities, and other *bits 'n' pieces*.
-3. **Where am I?** This calendar is where lab members note whether they plan to be on campus or in the lab on a given day. It also notes known absences (e.g., illness, travel, holidays, vacation, out-of-office). We have found this useful in helping the lab to maximize the value of our hybrid structure (e.g., it minimizes the risk of you coming in only to find that no one else is around). As such, please do your best to use it diligently for everyone's benefit. For example, if you're going to be on campus for the day but plan to spend all your time at UBHC and none at SRB, create an all-day event that reads "YourName @ UBHC." This calendar is also useful for helping Linden to respect your off time; for example, putting your travel dates down ensures that Linden won't bother you during your time away!
+1. **Where am I?** This calendar is where lab members log their location and availability on a given day (i.e., whether they plan to be on campus or away).
+
+   - **What to log:**
+     - *On campus:* Create an all-day event specifying where you'll be — e.g., "Linden @ SRB" or "Linden @ UBHC."
+     - *Working from home (Wednesdays only):* Create an all-day event called "Linden @ WFH." This only applies to Wednesdays, since attendance is expected on Mondays and WFH is the default on Tuesdays, Thursdays, and Fridays (i.e., all other non-all-hands days).
+     - *Out of office:* Create an all-day event called "Linden @ OOO" for any day you are offline and unavailable (e.g., illness, conference travel, vacation). Note, for things like travel and vacation, OOO events should be created well in advance to give everyone time to plan. Of course, last minute OOO events are ok for sickness or emergencies.
+     - *Working from afar (summers only):* During June, July, and August, you may log "Linden @ WFA" if you are working remotely from a great distance from campus. That is, you are far enough away that coming in is not feasible (e.g., visiting family over the summer). Unlike a standard WFH day, WFA is permitted on Mondays, but only during the summer months. While there is no hard cap on WFA days, the expectation is that lab members remain active and productive over the summer; we are not a lab that takes the summer off. As such, logging WFA for the entire summer is not permissible. Finally, your ability to WFA depends on your role in the lab. For example, if the lab has ongoing scanning projects, this takes priority.
+   - **Why it matters:** It helps the lab get the most out of our hybrid structure; for example, by reducing the chance you come in only to find no one else is around. It also helps Linden respect your time off; logging OOO, for instance, ensures you won't be contacted while you're away.
+   - **The ask:** Please use it diligently. This system only works if everyone keeps it up to date. If Linden notices the calendar being neglected, he may give you a nudge; don't take it personally. He just wants the lab to run smoothly.
+
+2. **Meetings.** This calendar is where we record meetings that involve Linden. Note, you are not obliged to use this to record your own meetings that don't involve Linden if you don't want to.
+3. **Events.** This calendar is where we record upcoming conferences, talks, activities, and other *bits 'n' pieces*.
+
+{: .note-title }
+> A note on holidays.
+>
+> The lab observes all holidays on the [Rutgers University Holiday and Closings Schedule](https://uhr.rutgers.edu/hr-professional/2024-university-holiday-and-closings-schedule). These may not appear on the lab calendars, but they are recognized. If you have a meeting scheduled on a holiday, reach out to Linden to reschedule.
+>
+> There are three exceptions to the above schedule.
+>
+> 1. **Extended winter break.** The lab observes a 2-week winter break that starts the Monday before Christmas. For example, in 2025/2026 this spanned Monday, December 22nd through Friday, January 2nd, with a return to the office on Monday, January 5th. This is slightly longer than the official Rutgers break (December 25th–January 2nd). This break will be marked on the **Events** calendar.
+> 2. **Easter break.** The lab also observes an unofficial Easter break covering Good Friday and Easter Monday. This break will be marked on the **Events** calendar.
+> 3. **Spring break (students only).** Graduate students may also take their university spring break as unofficial time away from lab, and should log it as WFA or OOO as appropriate.
+>
+ 
+### Communication
+Slack will be used as the primary means of lab communication. Email is a notoriously oversubscribed communication medium for PIs, which can result in many missed emails. To combat this, all direct communication with Linden should take place on Slack, including exchanging attachments. Everyone is expected to have Slack installed on their computers and engage actively with the lab there.
+
+Upon arrival, you will be invited to CAHBIR's Slack workspace, which is broader than the lab and encompasses multiple groups across the center. Within it, the lab maintains a handful of dedicated channels:
+
+1. **snaplab_general.** For general lab discussion.
+2. **snaplab_papers.** For sharing papers.
 
 ### Deadlines
-We are big believers in work-life balance. Linden will support you to maintain your work-life balance, and he asks that you support his by managing your deadlines diligently and factoring in ample time to provide feedback.
 
-1. Give Linden at least **10 business days** (i.e., excluding weekends and holidays) to do something with a hard deadline that requires a small time commitment (e.g., commenting on conference abstracts, completing paperwork, etc.)
-1. Give Linden at least **15 business days** to do something with a hard deadline that requires a significant time commitment (e.g., commenting on manuscripts/grants/fellowships, writing letter of recommendation, etc.)
+1. Give Linden at least **5 business days** to do something that requires a small time commitment (e.g., commenting on conference abstracts, completing paperwork, etc.)
+1. Give Linden at least **10 business days** to do something that requires a significant time commitment (e.g., commenting on manuscripts/grants/fellowships, writing letter of recommendation, etc.)
 
 If you want multiple back-and-forth rounds of feedback prior to submission, please plan accordingly. This is particularly important for grants/fellowships, as these submissions often comprise multiple lengthy components---that may each require their own rounds of feedback---and compiling strong submissions is nearly always an iterative process. This is why it is so important to start early!
 
@@ -210,7 +236,7 @@ Note that the above feedback deadlines may need to be adjusted to account for pe
 We will have a lab meeting every week, which everyone should aim to attend. The meeting will be a hybrid of in-person and Zoom. You can find it on the **Meetings** [calendar](#calendars). Note, owing to the relatively small size of the SNaP Lab, we are currently holding a joint lab meeting with the [Holmes Lab](https://holmeslab.rutgers.edu/).
 
 ### Office hours
-If he is in the lab, you can find Linden in his office. His door is almost always open; if it is, feel free to ask for a chat. He will typically say yes, though sometimes he can only spare a couple of minutes. You can find Linden's lab attendance in the **Where am i?** [calendar](#calendars).
+If he is in the lab, you can find Linden in his office. His door is almost always open; if it is, feel free to ask for a chat. He will typically say yes, though sometimes he can only spare a couple of minutes. You can find Linden's lab attendance in the **Where am I?** [calendar](#calendars).
 
 ### Computers
 All lab members need a computer to get their work done. Depending on your role and the specifics of your project, the lab may provide a computer dedicated to you (e.g., laptop or desktop). Any computers purchased by the lab will remain the property of the lab and should be treated as such. In turn, all computers (including all peripheral equipment) must be returned to the lab when your tenure is complete.
@@ -225,7 +251,7 @@ All lab members need a computer to get their work done. Depending on your role a
 
 ### Discretionary fund
 
-Full-time postdocs and graduate students, primarily supervised by Linden, will be given a $4,000 discretionary fund when they start at the lab. This amount is non-expiring and can be used anytime. The purpose of this fund is (1) to support trainees to get setup with their local computing needs and (2) provide opportunites to engage in professional development activities beyond things like conference travel (e.g., summer courses).
+Full-time postdocs and graduate students, primarily supervised by Linden, will be given a $4,000 discretionary fund when they start at the lab. This amount is non-expiring and can be used anytime. The purpose of this fund is (1) to support trainees to get set up with their local computing needs and (2) provide opportunities to engage in professional development activities beyond things like conference travel (e.g., summer courses).
 
 For (1), this might include the purchase of a new laptop and peripherals. If you're a Mac user, all purchases must go via [Kite & Key](https://kiteandkey.rutgers.edu/). Otherwise, we have access to a wide range of vendors, including Dell & Amazon. Regarding the latter, Rutgers places some restrictions on the Amazon catalogue, but we're able to purchase most things. If you're unsure, just send a link to Linden and he can check.
 
