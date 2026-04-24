@@ -167,7 +167,7 @@ If a lab member takes on a project but subsequently hands it off to another lab 
 
 In cases where a lab member brings an incomplete project to the lab from their previous lab, Linden expects to be invited to participate as a coauthor if that lab member intends to spend lab time finishing that project. However, if the lab member intends to finish their carry over project entirely on their own time, then Linden does not need to be included. In either case, Linden expects you to communicate what you're working on, and in what capacity, with him. This is important as Linden has reporting obligations to various funding bodies, and he needs to know which projects are being supported — in whole or in part — by certain grants.
 
-Lastly, if someone at Rutgers invites a lab member to participate in a collaboration, Linden expects to be invited to participate as a coauthor.
+Lastly, if someone at Rutgers invites a lab member to participate in a collaboration, Linden expects to be consulted about the opportunity before proceeding. Linden doesn't need to be a coauthor on all things, but its important that lab projects take priority.
 
 All of these issues will be discussed openly, and you should feel free to bring them up if you are not sure of your authorship status or want to challenge it. As we often deal with large and complex datasets involving big collaborations, there are no hard and fast rules for authorship.
 
